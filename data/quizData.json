@@ -1,0 +1,3525 @@
+[
+  {
+    "movies": {
+      "telugu": [
+        {
+          "question": "Who is the lead actor in 'Baahubali'?",
+          "options": ["Prabhas", "Nani", "Allu Arjun", "Ram Charan"],
+          "answer": "Prabhas",
+          "mode": "easy"
+        },
+        {
+          "question": "Which actress played the lead role in 'Rangasthalam'?",
+          "options": [
+            "Samantha Ruth Prabhu",
+            "Kajal Aggarwal",
+            "Anushka Shetty",
+            "Shruti Haasan"
+          ],
+          "answer": "Samantha Ruth Prabhu",
+          "mode": "easy"
+        },
+        {
+          "question": "Which film features the song 'Vachinde'?",
+          "options": [
+            "Fidaa",
+            "Ala Vaikunthapurramuloo",
+            "Rangasthalam",
+            "Jersey"
+          ],
+          "answer": "Fidaa",
+          "mode": "easy"
+        },
+        {
+          "question": "Which movie has the famous song 'Butta Bomma'?",
+          "options": ["Ala Vaikunthapurramuloo", "RRR", "Pushpa", "Baahubali"],
+          "answer": "Ala Vaikunthapurramuloo",
+          "mode": "easy"
+        },
+        {
+          "question": "Who directed 'Baahubali'?",
+          "options": [
+            "S. S. Rajamouli",
+            "Trivikram Srinivas",
+            "Puri Jagannadh",
+            "Chandrasekhar Yeleti"
+          ],
+          "answer": "S. S. Rajamouli",
+          "mode": "easy"
+        },
+        {
+          "question": "Who played the lead role in 'Jersey'?",
+          "options": ["Nani", "Suriya", "Vijay Deverakonda", "Ram Charan"],
+          "answer": "Nani",
+          "mode": "easy"
+        },
+        {
+          "question": "Which movie featured the song 'Samajavaragamana'?",
+          "options": [
+            "Ala Vaikunthapurramuloo",
+            "Fidaa",
+            "Bheeshma",
+            "Kshana Kshanam"
+          ],
+          "answer": "Ala Vaikunthapurramuloo",
+          "mode": "easy"
+        },
+        {
+          "question": "Who is the lead actress in the movie 'Pelli Sandadi'?",
+          "options": [
+            "Sree Leela",
+            "Rashmika Mandanna",
+            "Anushka Shetty",
+            "Nithya Menen"
+          ],
+          "answer": "Sree Leela",
+          "mode": "easy"
+        },
+        {
+          "question": "Which actor is known for his role in 'RRR'?",
+          "options": [
+            "N.T. Rama Rao Jr.",
+            "Allu Arjun",
+            "Mahesh Babu",
+            "Vijay Deverakonda"
+          ],
+          "answer": "N.T. Rama Rao Jr.",
+          "mode": "easy"
+        },
+        {
+          "question": "Which film won the 2021 Nandi Award for Best Film?",
+          "options": ["Kshana Kshanam", "RRR", "Jersey", "Karthikeya 2"],
+          "answer": "RRR",
+          "mode": "easy"
+        },
+        {
+          "question": "Who played the role of 'Shiva' in 'Baahubali'?",
+          "options": [
+            "Prabhas",
+            "N.T. Rama Rao Jr.",
+            "Mahesh Babu",
+            "Ram Charan"
+          ],
+          "answer": "Prabhas",
+          "mode": "medium"
+        },
+        {
+          "question": "Which actor starred in the film 'Ala Vaikunthapurramuloo'?",
+          "options": [
+            "Allu Arjun",
+            "N.T. Rama Rao Jr.",
+            "Vijay Deverakonda",
+            "Suriya"
+          ],
+          "answer": "Allu Arjun",
+          "mode": "medium"
+        },
+        {
+          "question": "Who directed the movie 'Rangasthalam'?",
+          "options": ["Sukumar", "Rajamouli", "Vamsi Paidipally", "Krish"],
+          "answer": "Sukumar",
+          "mode": "medium"
+        },
+        {
+          "question": "Who is the lead actress in 'Ala Vaikunthapurramuloo'?",
+          "options": [
+            "Pooja Hegde",
+            "Samantha Ruth Prabhu",
+            "Kajal Aggarwal",
+            "Rashmika Mandanna"
+          ],
+          "answer": "Pooja Hegde",
+          "mode": "medium"
+        },
+        {
+          "question": "Which movie features the song 'Srivalli'?",
+          "options": [
+            "Pushpa",
+            "Ala Vaikunthapurramuloo",
+            "Baahubali",
+            "Rangasthalam"
+          ],
+          "answer": "Pushpa",
+          "mode": "medium"
+        },
+        {
+          "question": "Who composed the music for the film 'Fidaa'?",
+          "options": [
+            "Shakti Kanth Karthick",
+            "Devi Sri Prasad",
+            "M. M. Keeravani",
+            "Thaman S."
+          ],
+          "answer": "Shakti Kanth Karthick",
+          "mode": "medium"
+        },
+        {
+          "question": "Which Telugu movie won the National Award for Best Feature Film?",
+          "options": ["Kshana Kshanam", "Baahubali", "Karthikeya 2", "RRR"],
+          "answer": "Baahubali",
+          "mode": "medium"
+        },
+        {
+          "question": "Which movie had the famous song 'Pillaa Raa'?",
+          "options": [
+            "RX 100",
+            "Ala Vaikunthapurramuloo",
+            "Geetha Govindam",
+            "Sye"
+          ],
+          "answer": "RX 100",
+          "mode": "medium"
+        },
+        {
+          "question": "Who starred in the movie 'Sye'?",
+          "options": ["Nithiin", "Suriya", "Vijay Deverakonda", "Ram Charan"],
+          "answer": "Nithiin",
+          "mode": "medium"
+        },
+        {
+          "question": "Which movie had the hit song 'Aarambhame Le'?",
+          "options": ["Kshana Kshanam", "Jersey", "Rangasthalam", "Baahubali"],
+          "answer": "Jersey",
+          "mode": "medium"
+        },
+        {
+          "question": "Which movie directed by S. S. Rajamouli is based on the life of a historical figure?",
+          "options": ["Baahubali", "Magadheera", "Eega", "RRR"],
+          "answer": "Baahubali",
+          "mode": "hard"
+        },
+        {
+          "question": "Which actor won the Nandi Award for Best Actor for his performance in 'Kshana Kshanam'?",
+          "options": ["Sumanth", "Venkatesh", "Nani", "Chiranjeevi"],
+          "answer": "Sumanth",
+          "mode": "hard"
+        },
+        {
+          "question": "In which movie did Allu Arjun play a character named 'DJ'?",
+          "options": [
+            "DJ: Duvvada Jagannadham",
+            "Pushpa",
+            "Ala Vaikunthapurramuloo",
+            "Race Gurram"
+          ],
+          "answer": "DJ: Duvvada Jagannadham",
+          "mode": "hard"
+        },
+        {
+          "question": "Who directed the Telugu film 'Baahubali 2: The Conclusion'?",
+          "options": [
+            "S. S. Rajamouli",
+            "Koratala Siva",
+            "Trivikram Srinivas",
+            "Puri Jagannadh"
+          ],
+          "answer": "S. S. Rajamouli",
+          "mode": "hard"
+        },
+        {
+          "question": "Which actor starred in the movie 'Kshana Kshanam'?",
+          "options": [
+            "Sumanth",
+            "Venkatesh",
+            "N.T. Rama Rao Jr.",
+            "Chiranjeevi"
+          ],
+          "answer": "Sumanth",
+          "mode": "hard"
+        },
+        {
+          "question": "Who is the composer of the music for the film 'Baahubali'?",
+          "options": [
+            "M. M. Keeravani",
+            "Devi Sri Prasad",
+            "Thaman S.",
+            "A. R. Rahman"
+          ],
+          "answer": "M. M. Keeravani",
+          "mode": "hard"
+        },
+        {
+          "question": "Which movie features the song 'gutlo vundi bellam mukka'?",
+          "options": ["Sye", "Ala Vaikunthapurramuloo", "Pushpa", "Fidaa"],
+          "answer": "Sye",
+          "mode": "hard"
+        },
+        {
+          "question": "Who starred in the movie 'Geetha Govindam'?",
+          "options": ["Vijay Deverakonda", "Allu Arjun", "Ram Charan", "Nani"],
+          "answer": "Vijay Deverakonda",
+          "mode": "hard"
+        },
+        {
+          "question": "Which actor played the role of 'Madhuravani' in 'Kshana Kshanam'?",
+          "options": ["Rohini", "Anjali", "Kajal Aggarwal", "Brahmanandam"],
+          "answer": "Rohini",
+          "mode": "hard"
+        },
+        {
+          "question": "Which film featured the song 'Ramuloo Ramulaa'?",
+          "options": [
+            "Ala Vaikunthapurramuloo",
+            "Fidaa",
+            "Sye",
+            "Kshana Kshanam"
+          ],
+          "answer": "Ala Vaikunthapurramuloo",
+          "mode": "hard"
+        }
+      ],
+      "hindi": [
+        {
+          "mode": "easy",
+          "question": "Which Bollywood film features the famous song 'Kal Ho Na Ho'?",
+          "options": [
+            "Kal Ho Na Ho",
+            "Dilwale Dulhania Le Jayenge",
+            "Kabhi Khushi Kabhi Gham",
+            "Lagaan"
+          ],
+          "answer": "Kal Ho Na Ho"
+        },
+        {
+          "mode": "easy",
+          "question": "Who played the lead role in the movie '3 Idiots'?",
+          "options": [
+            "Aamir Khan",
+            "Shah Rukh Khan",
+            "Salman Khan",
+            "Hrithik Roshan"
+          ],
+          "answer": "Aamir Khan"
+        },
+        {
+          "mode": "easy",
+          "question": "Which Bollywood movie is based on the life of cricketer M.S. Dhoni?",
+          "options": [
+            "M.S. Dhoni: The Untold Story",
+            "Chak De! India",
+            "Lagaan",
+            "Azhar"
+          ],
+          "answer": "M.S. Dhoni: The Untold Story"
+        },
+        {
+          "mode": "easy",
+          "question": "Which 2015 film starred Ranbir Kapoor and Deepika Padukone?",
+          "options": [
+            "Tamasha",
+            "Yeh Jawaani Hai Deewani",
+            "Bajirao Mastani",
+            "Piku"
+          ],
+          "answer": "Tamasha"
+        },
+        {
+          "mode": "easy",
+          "question": "Who is known as the 'King of Bollywood'?",
+          "options": [
+            "Shah Rukh Khan",
+            "Amitabh Bachchan",
+            "Salman Khan",
+            "Ranbir Kapoor"
+          ],
+          "answer": "Shah Rukh Khan"
+        },
+        {
+          "mode": "easy",
+          "question": "Who directed the movie 'Lagaan'?",
+          "options": [
+            "Ashutosh Gowariker",
+            "Rajkumar Hirani",
+            "Karan Johar",
+            "Sanjay Leela Bhansali"
+          ],
+          "answer": "Ashutosh Gowariker"
+        },
+        {
+          "mode": "easy",
+          "question": "Which actor is known for the iconic role of 'Mogambo'?",
+          "options": [
+            "Amrish Puri",
+            "Shakti Kapoor",
+            "Anupam Kher",
+            "Prem Chopra"
+          ],
+          "answer": "Amrish Puri"
+        },
+        {
+          "mode": "easy",
+          "question": "Who is the lead actress in the movie 'Piku'?",
+          "options": [
+            "Deepika Padukone",
+            "Priyanka Chopra",
+            "Kareena Kapoor",
+            "Katrina Kaif"
+          ],
+          "answer": "Deepika Padukone"
+        },
+        {
+          "mode": "easy",
+          "question": "Who won the Filmfare Award for Best Actor in 2020?",
+          "options": [
+            "Ranveer Singh",
+            "Amitabh Bachchan",
+            "Vicky Kaushal",
+            "Ayushmann Khurrana"
+          ],
+          "answer": "Vicky Kaushal"
+        },
+        {
+          "mode": "easy",
+          "question": "Who directed 'Dilwale Dulhania Le Jayenge'?",
+          "options": [
+            "Aditya Chopra",
+            "Karan Johar",
+            "Rajkumar Hirani",
+            "Sanjay Leela Bhansali"
+          ],
+          "answer": "Aditya Chopra"
+        },
+        {
+          "mode": "medium",
+          "question": "Who played the role of Mary Kom in the 2014 biographical film?",
+          "options": [
+            "Priyanka Chopra",
+            "Deepika Padukone",
+            "Kareena Kapoor",
+            "Alia Bhatt"
+          ],
+          "answer": "Priyanka Chopra"
+        },
+        {
+          "mode": "medium",
+          "question": "Which actor played the role of 'Bhallaladeva'?",
+          "options": ["Rana Daggubati", "Prabhas", "Mahesh Babu", "Ram Charan"],
+          "answer": "Rana Daggubati"
+        },
+        {
+          "mode": "medium",
+          "question": "Who is the music composer for 'Bajirao Mastani'?",
+          "options": [
+            "Sanjay Leela Bhansali",
+            "A.R. Rahman",
+            "Vishal-Shekhar",
+            "Shankar-Ehsaan-Loy"
+          ],
+          "answer": "Sanjay Leela Bhansali"
+        },
+        {
+          "mode": "medium",
+          "question": "Which film won the 2017 Filmfare Award for Best Director?",
+          "options": ["Sultan", "Dangal", "Dear Zindagi", "PK"],
+          "answer": "Dangal"
+        },
+        {
+          "mode": "medium",
+          "question": "Who starred in the movie 'Kabir Singh'?",
+          "options": [
+            "Shahid Kapoor",
+            "Salman Khan",
+            "Hrithik Roshan",
+            "Aamir Khan"
+          ],
+          "answer": "Shahid Kapoor"
+        },
+        {
+          "mode": "hard",
+          "question": "Which film won the National Film Award for Best Feature Film in 2017?",
+          "options": ["Village Rockstars", "Piku", "Lagaan", "Gully Boy"],
+          "answer": "Village Rockstars"
+        },
+        {
+          "mode": "hard",
+          "question": "Who starred in the movie 'Zindagi Na Milegi Dobara'?",
+          "options": [
+            "Hrithik Roshan",
+            "Aamir Khan",
+            "Shah Rukh Khan",
+            "Salman Khan"
+          ],
+          "answer": "Hrithik Roshan"
+        },
+        {
+          "mode": "hard",
+          "question": "Which movie features the famous dialogue 'Mogambo Khush Hua'?",
+          "options": ["Mr. India", "Sholay", "Deewaar", "Dil Se"],
+          "answer": "Mr. India"
+        },
+        {
+          "mode": "hard",
+          "question": "Who directed the movie 'Drishyam'?",
+          "options": [
+            "Jeethu Joseph",
+            "M. Night Shyamalan",
+            "Christopher Nolan",
+            "S. S. Rajamouli"
+          ],
+          "answer": "Jeethu Joseph"
+        },
+        {
+          "mode": "hard",
+          "question": "Which film's music was composed by Ilaiyaraaja?",
+          "options": [
+            "Anjali",
+            "Sultan",
+            "Bajirao Mastani",
+            "Kabhi Khushi Kabhi Gham"
+          ],
+          "answer": "Anjali"
+        }
+      ],
+      "malayalam": [
+        {
+          "question": "Who played the lead role in the movie 'Drishyam'?",
+          "options": [
+            "Mohanlal",
+            "Dulquer Salmaan",
+            "Prithviraj Sukumaran",
+            "Fahadh Faasil"
+          ],
+          "answer": "Mohanlal",
+          "mode": "easy"
+        },
+        {
+          "question": "Which movie features the popular song 'Entammede Jimikki Kammal'?",
+          "options": [
+            "Velipadinte Pusthakam",
+            "Premam",
+            "Bangalore Days",
+            "Ustad Hotel"
+          ],
+          "answer": "Velipadinte Pusthakam",
+          "mode": "easy"
+        },
+        {
+          "question": "Which actor played the lead role in 'Premam'?",
+          "options": [
+            "Nivin Pauly",
+            "Dulquer Salmaan",
+            "Prithviraj Sukumaran",
+            "Fahadh Faasil"
+          ],
+          "answer": "Nivin Pauly",
+          "mode": "easy"
+        },
+        {
+          "question": "Which actress starred in 'Manichitrathazhu'?",
+          "options": ["Shobhana", "Madhavi", "Meera Jasmine", "Nayantara"],
+          "answer": "Shobhana",
+          "mode": "easy"
+        },
+        {
+          "question": "Which 2017 movie featured the song 'Aaradhike'?",
+          "options": [
+            "Jacobinte Swargarajyam",
+            "Kayal",
+            "Angamaly Diaries",
+            "Kalyana Samayal Saadham"
+          ],
+          "answer": "Jacobinte Swargarajyam",
+          "mode": "easy"
+        },
+        {
+          "question": "Who directed the movie 'Bangalore Days'?",
+          "options": [
+            "Anjali Menon",
+            "Sidhartha Siva",
+            "Lal Jose",
+            "Midhun Manuel Thomas"
+          ],
+          "answer": "Anjali Menon",
+          "mode": "easy"
+        },
+        {
+          "question": "Which actor starred in the movie 'Kalyanaraman'?",
+          "options": [
+            "Dulquer Salmaan",
+            "Mohanlal",
+            "Prithviraj Sukumaran",
+            "Nivin Pauly"
+          ],
+          "answer": "Dulquer Salmaan",
+          "mode": "easy"
+        },
+        {
+          "question": "Which movie had the famous song 'Mazhavil Kavadi'?",
+          "options": [
+            "Ramji Rao Speaking",
+            "Meesa Madhavan",
+            "Kilukkam",
+            "Godfather"
+          ],
+          "answer": "Kilukkam",
+          "mode": "easy"
+        },
+        {
+          "question": "Who is the director of 'Ustad Hotel'?",
+          "options": ["Anwar Rasheed", "Siddique", "Lal Jose", "Rajesh Pillai"],
+          "answer": "Anwar Rasheed",
+          "mode": "easy"
+        },
+        {
+          "question": "Who played the role of 'Raghuraman' in 'Kalyanaraman'?",
+          "options": [
+            "Dulquer Salmaan",
+            "Mohanlal",
+            "Prithviraj Sukumaran",
+            "Nivin Pauly"
+          ],
+          "answer": "Dulquer Salmaan",
+          "mode": "easy"
+        },
+        {
+          "question": "Which movie starred Mohanlal and featured the song 'Aathimannil'?",
+          "options": [
+            "Kilukkam",
+            "Manichitrathazhu",
+            "Rajavinte Makan",
+            "Meesa Madhavan"
+          ],
+          "answer": "Kilukkam",
+          "mode": "medium"
+        },
+        {
+          "question": "Who directed the film 'Drishyam'?",
+          "options": [
+            "Jeethu Joseph",
+            "Rajesh Pillai",
+            "Shyamaprasad",
+            "B Unnikrishnan"
+          ],
+          "answer": "Jeethu Joseph",
+          "mode": "medium"
+        },
+        {
+          "question": "Which film features the character 'Vijayan' played by Mohanlal?",
+          "options": [
+            "Rajavinte Makan",
+            "Manichitrathazhu",
+            "Meesa Madhavan",
+            "Kilukkam"
+          ],
+          "answer": "Rajavinte Makan",
+          "mode": "medium"
+        },
+        {
+          "question": "Which movie starred Nivin Pauly as the lead and featured the song 'Poomuthole'?",
+          "options": [
+            "Premam",
+            "Jacobinte Swargarajyam",
+            "Kalyanaraman",
+            "Neram"
+          ],
+          "answer": "Premam",
+          "mode": "medium"
+        },
+        {
+          "question": "Who directed the movie 'Angamaly Diaries'?",
+          "options": [
+            "Lijo Jose Pellissery",
+            "Anjali Menon",
+            "Alphonse Puthren",
+            "Sidhartha Siva"
+          ],
+          "answer": "Lijo Jose Pellissery",
+          "mode": "medium"
+        },
+        {
+          "question": "Which Malayalam movie features a memorable performance by Fahadh Faasil as 'Sam'?",
+          "options": [
+            "Take Off",
+            "Maheshinte Prathikaaram",
+            "C/O Saira Banu",
+            "Vikramadithyan"
+          ],
+          "answer": "Take Off",
+          "mode": "medium"
+        },
+        {
+          "question": "Which actress played the role of 'Sita' in the movie 'Kalyanaraman'?",
+          "options": [
+            "Nithya Menen",
+            "Meera Jasmine",
+            "Shobhana",
+            "Manju Warrier"
+          ],
+          "answer": "Nithya Menen",
+          "mode": "medium"
+        },
+        {
+          "question": "Who is the director of 'Premam'?",
+          "options": [
+            "Alphonse Puthren",
+            "Rajesh Pillai",
+            "Jeethu Joseph",
+            "Lal Jose"
+          ],
+          "answer": "Alphonse Puthren",
+          "mode": "medium"
+        },
+        {
+          "question": "Which Malayalam film was India’s official entry for the Best Foreign Language Film at the Oscars in 2015?",
+          "options": ["Court", "Drishyam", "Lal Kaptaan", "Vikramadithyan"],
+          "answer": "Court",
+          "mode": "medium"
+        },
+        {
+          "question": "Which actor starred in the movie 'Ennu Ninte Moideen'?",
+          "options": [
+            "Prithviraj Sukumaran",
+            "Dulquer Salmaan",
+            "Nivin Pauly",
+            "Mohanlal"
+          ],
+          "answer": "Prithviraj Sukumaran",
+          "mode": "medium"
+        },
+        {
+          "question": "Which film is considered to be the first neo-realistic movie in Malayalam?",
+          "options": [
+            "Satyakam",
+            "Kaalal Pada",
+            "Adoor Gopalakrishnan’s 'Swayamvaram'",
+            "Nritashala"
+          ],
+          "answer": "Adoor Gopalakrishnan’s 'Swayamvaram'",
+          "mode": "hard"
+        },
+        {
+          "question": "Which 2019 Malayalam film had the famous line 'Ithinte Pidikatha Aanakkanum Arangottil?'?",
+          "options": [
+            "Vikramadithyan",
+            "Kalyanaraman",
+            "Bangalore Days",
+            "Kalyana Samayal Saadham"
+          ],
+          "answer": "Vikramadithyan",
+          "mode": "hard"
+        },
+        {
+          "question": "Who directed the movie 'Take Off'?",
+          "options": [
+            "Mahesh Narayan",
+            "Anwar Rasheed",
+            "Sidhique",
+            "Rajesh Pillai"
+          ],
+          "answer": "Mahesh Narayan",
+          "mode": "hard"
+        },
+        {
+          "question": "Which Malayalam movie had the character 'Raghuraman'?",
+          "options": [
+            "Ustad Hotel",
+            "Vikramadithyan",
+            "Take Off",
+            "Oru Vadakkan Selfie"
+          ],
+          "answer": "Ustad Hotel",
+          "mode": "hard"
+        },
+        {
+          "question": "Which actor starred in 'Maheshinte Prathikaaram'?",
+          "options": [
+            "Fahadh Faasil",
+            "Prithviraj Sukumaran",
+            "Dulquer Salmaan",
+            "Mohanlal"
+          ],
+          "answer": "Fahadh Faasil",
+          "mode": "hard"
+        },
+        {
+          "question": "Which 2016 film won the Kerala State Film Award for Best Art Director?",
+          "options": ["Kammatipaadam", "Kalyanaraman", "Raja Rani", "Take Off"],
+          "answer": "Kammatipaadam",
+          "mode": "hard"
+        },
+        {
+          "question": "Which director is known for his involvement in the modern Malayalam cinema movement?",
+          "options": [
+            "Lijo Jose Pellissery",
+            "Alphonse Puthren",
+            "Jeethu Joseph",
+            "Sidhique"
+          ],
+          "answer": "Lijo Jose Pellissery",
+          "mode": "hard"
+        },
+        {
+          "question": "Which 2018 Malayalam film has been recognized as the best romantic film by the Kerala State Film Awards?",
+          "options": [
+            "Oru Kuprasidha Payyan",
+            "Poomaram",
+            "Love Action Drama",
+            "Vikramadithyan"
+          ],
+          "answer": "Oru Kuprasidha Payyan",
+          "mode": "hard"
+        },
+        {
+          "question": "Who played the role of the main antagonist in the movie 'Oru Vadakkan Selfie'?",
+          "options": [
+            "Nivin Pauly",
+            "Dulquer Salmaan",
+            "Fahadh Faasil",
+            "Prithviraj Sukumaran"
+          ],
+          "answer": "Fahadh Faasil",
+          "mode": "hard"
+        },
+        {
+          "question": "Which film won the Kerala State Film Award for Best Feature Film in 2014?",
+          "options": ["Bangalore Days", "Kali", "Premam", "Charlie"],
+          "answer": "Charlie",
+          "mode": "hard"
+        }
+      ],
+      "bengali": [
+        {
+          "question": "Who played the lead role in the movie 'Pather Panchali'?",
+          "options": [
+            "Soumitra Chatterjee",
+            "Prosenjit Chatterjee",
+            "Uttam Kumar",
+            "Rajesh Sharma"
+          ],
+          "answer": "Soumitra Chatterjee",
+          "mode": "easy"
+        },
+        {
+          "question": "Which film features the popular song 'Ei To Bolechhi Kemon'?",
+          "options": [
+            "Baishe Srabon",
+            "Chander Pahar",
+            "Satyajit Ray's Feluda Series",
+            "Magno Mainak"
+          ],
+          "answer": "Baishe Srabon",
+          "mode": "easy"
+        },
+        {
+          "question": "Who is the famous director of the movie 'Pather Panchali'?",
+          "options": [
+            "Satyajit Ray",
+            "Rituparno Ghosh",
+            "Aparna Sen",
+            "Tapan Sinha"
+          ],
+          "answer": "Satyajit Ray",
+          "mode": "easy"
+        },
+        {
+          "question": "Which actor starred in 'Chander Pahar'?",
+          "options": [
+            "Dev",
+            "Prosenjit Chatterjee",
+            "Jisshu Sengupta",
+            "Rupam Islam"
+          ],
+          "answer": "Dev",
+          "mode": "easy"
+        },
+        {
+          "question": "Which movie featured the song 'Ami Shubhechha Boli'?",
+          "options": [
+            "Baishe Srabon",
+            "Chotushkone",
+            "Shwet Patharer Thala",
+            "Jaatishwar"
+          ],
+          "answer": "Baishe Srabon",
+          "mode": "easy"
+        },
+        {
+          "question": "Which Bengali film has the popular song 'Tumi Ase Aso'?",
+          "options": [
+            "Moner Manush",
+            "Jaatishwar",
+            "Chhaya-O-Chhobi",
+            "Ghare Baire"
+          ],
+          "answer": "Moner Manush",
+          "mode": "easy"
+        },
+        {
+          "question": "Who directed the film 'Ghare Baire'?",
+          "options": [
+            "Satyajit Ray",
+            "Rituparno Ghosh",
+            "Buddhadeb Dasgupta",
+            "Aparna Sen"
+          ],
+          "answer": "Satyajit Ray",
+          "mode": "easy"
+        },
+        {
+          "question": "Which actress played the role of 'Panna' in 'Jaatishwar'?",
+          "options": [
+            "Jaya Ahsan",
+            "Swastika Mukherjee",
+            "Koel Mallick",
+            "Rituparna Sengupta"
+          ],
+          "answer": "Jaya Ahsan",
+          "mode": "easy"
+        },
+        {
+          "question": "Which film features the song 'Dheere Dheere Se'?",
+          "options": [
+            "Ghare Baire",
+            "Moner Manush",
+            "Jaatishwar",
+            "Chhaya-O-Chhobi"
+          ],
+          "answer": "Moner Manush",
+          "mode": "easy"
+        },
+        {
+          "question": "Who played the role of 'Feluda' in the Satyajit Ray's series?",
+          "options": [
+            "Soumitra Chatterjee",
+            "Prosenjit Chatterjee",
+            "Amitabh Bachchan",
+            "Ranjit Mallick"
+          ],
+          "answer": "Soumitra Chatterjee",
+          "mode": "easy"
+        },
+        {
+          "question": "Which actor starred in the movie 'Baishe Srabon'?",
+          "options": [
+            "Parambrata Chatterjee",
+            "Prosenjit Chatterjee",
+            "Dev",
+            "Jisshu Sengupta"
+          ],
+          "answer": "Parambrata Chatterjee",
+          "mode": "medium"
+        },
+        {
+          "question": "Who directed 'Chhaya-O-Chhobi'?",
+          "options": [
+            "Rituparno Ghosh",
+            "Satyajit Ray",
+            "Aparna Sen",
+            "Tapan Sinha"
+          ],
+          "answer": "Rituparno Ghosh",
+          "mode": "medium"
+        },
+        {
+          "question": "Which Bengali actor is known for his role in 'Jaatishwar'?",
+          "options": [
+            "Prosenjit Chatterjee",
+            "Dev",
+            "Soham Chakraborty",
+            "Rupam Islam"
+          ],
+          "answer": "Prosenjit Chatterjee",
+          "mode": "medium"
+        },
+        {
+          "question": "Who composed the music for the movie 'Moner Manush'?",
+          "options": [
+            "Kabir Suman",
+            "Shantanu Moitra",
+            "Anupam Roy",
+            "Arijit Singh"
+          ],
+          "answer": "Kabir Suman",
+          "mode": "medium"
+        },
+        {
+          "question": "Which film directed by Rituparno Ghosh won the National Film Award for Best Feature Film?",
+          "options": [
+            "Chhaya-O-Chhobi",
+            "Unishe April",
+            "Dahan",
+            "Chokher Bali"
+          ],
+          "answer": "Unishe April",
+          "mode": "medium"
+        },
+        {
+          "question": "Who directed the movie 'Chander Pahar'?",
+          "options": [
+            "Buddhadeb Dasgupta",
+            "Aniruddha Roy Chowdhury",
+            "Kamaleshwar Mukherjee",
+            "Srijit Mukherji"
+          ],
+          "answer": "Kamaleshwar Mukherjee",
+          "mode": "medium"
+        },
+        {
+          "question": "Which film features the song 'Aar Kothao Kothao'?",
+          "options": ["Jaatishwar", "Baishe Srabon", "Dahan", "Mahanagar"],
+          "answer": "Jaatishwar",
+          "mode": "medium"
+        },
+        {
+          "question": "Which actress starred in 'Chokher Bali'?",
+          "options": [
+            "Rani Mukerji",
+            "Swastika Mukherjee",
+            "Konkona Sen Sharma",
+            "Sharmila Tagore"
+          ],
+          "answer": "Rani Mukerji",
+          "mode": "medium"
+        },
+        {
+          "question": "Which Bengali actor won the National Award for Best Actor for his role in 'Baishe Srabon'?",
+          "options": [
+            "Parambrata Chatterjee",
+            "Prosenjit Chatterjee",
+            "Jisshu Sengupta",
+            "Rupam Islam"
+          ],
+          "answer": "Parambrata Chatterjee",
+          "mode": "medium"
+        },
+        {
+          "question": "Who composed the soundtrack for 'Moner Manush'?",
+          "options": [
+            "Kabir Suman",
+            "Anupam Roy",
+            "Shantanu Moitra",
+            "Arijit Singh"
+          ],
+          "answer": "Kabir Suman",
+          "mode": "medium"
+        },
+        {
+          "question": "Which Bengali film won the Golden Lotus Award (Swarna Kamal) at the 2003 National Film Awards?",
+          "options": [
+            "Chokher Bali",
+            "Moner Manush",
+            "Ghare Baire",
+            "Satyajit Ray's Pather Panchali"
+          ],
+          "answer": "Ghare Baire",
+          "mode": "hard"
+        },
+        {
+          "question": "Who is known for his role in the movie 'Chhaya-O-Chhobi'?",
+          "options": [
+            "Prosenjit Chatterjee",
+            "Mithun Chakraborty",
+            "Dev",
+            "Jisshu Sengupta"
+          ],
+          "answer": "Prosenjit Chatterjee",
+          "mode": "hard"
+        },
+        {
+          "question": "Which Bengali film was selected as India's official entry for the Best Foreign Language Film category at the Oscars in 1997?",
+          "options": [
+            "The Cloud-Capped Star",
+            "Pather Panchali",
+            "Aparajito",
+            "Ghare Baire"
+          ],
+          "answer": "The Cloud-Capped Star",
+          "mode": "hard"
+        },
+        {
+          "question": "Who is the director of 'Chokher Bali'?",
+          "options": [
+            "Rituparno Ghosh",
+            "Aparna Sen",
+            "Buddhadeb Dasgupta",
+            "Satyajit Ray"
+          ],
+          "answer": "Rituparno Ghosh",
+          "mode": "hard"
+        },
+        {
+          "question": "Which Bengali film won the Filmfare Award for Best Film – East in 2012?",
+          "options": [
+            "Chhaya-O-Chhobi",
+            "Baishe Srabon",
+            "Jaatishwar",
+            "Shwet Patharer Thala"
+          ],
+          "answer": "Jaatishwar",
+          "mode": "hard"
+        },
+        {
+          "question": "Which film features the song 'Jodi Tor Dak Shune'?",
+          "options": [
+            "Moner Manush",
+            "Chokher Bali",
+            "Ghare Baire",
+            "Baishe Srabon"
+          ],
+          "answer": "Moner Manush",
+          "mode": "hard"
+        },
+        {
+          "question": "Which director is known for his contributions to Bengali cinema with films like 'Ghare Baire' and 'Aparajito'?",
+          "options": [
+            "Satyajit Ray",
+            "Tapan Sinha",
+            "Rituparno Ghosh",
+            "Aparna Sen"
+          ],
+          "answer": "Satyajit Ray",
+          "mode": "hard"
+        },
+        {
+          "question": "Which actress starred in the movie 'Chhaya-O-Chhobi'?",
+          "options": [
+            "Rani Mukerji",
+            "Swastika Mukherjee",
+            "Koel Mallick",
+            "Tanuja"
+          ],
+          "answer": "Swastika Mukherjee",
+          "mode": "hard"
+        },
+        {
+          "question": "Which actor played the role of 'Raghu' in 'Moner Manush'?",
+          "options": [
+            "Prosenjit Chatterjee",
+            "Soham Chakraborty",
+            "Mithun Chakraborty",
+            "Bipasha Basu"
+          ],
+          "answer": "Prosenjit Chatterjee",
+          "mode": "hard"
+        },
+        {
+          "question": "Which Bengali film was nominated for the Best Foreign Language Film at the Academy Awards in 1981?",
+          "options": [
+            "Pather Panchali",
+            "The Cloud-Capped Star",
+            "Aparajito",
+            "Shwet Patharer Thala"
+          ],
+          "answer": "Pather Panchali",
+          "mode": "hard"
+        }
+      ],
+      "marathi": [
+        {
+          "question": "Who played the lead role in the movie 'Swaas'?",
+          "options": [
+            "Mohan Agashe",
+            "Nana Patekar",
+            "Makarand Deshpande",
+            "Lalit Prabhakar"
+          ],
+          "answer": "Mohan Agashe",
+          "mode": "easy"
+        },
+        {
+          "question": "Which film won the National Film Award for Best Feature Film in 2015?",
+          "options": ["Court", "Court", "Swaas", "Killa"],
+          "answer": "Court",
+          "mode": "easy"
+        },
+        {
+          "question": "Who is the director of the Marathi film 'Court'?",
+          "options": [
+            "Chaitanya Tamhane",
+            "Nagraj Manjule",
+            "Makarand Deshpande",
+            "Viju Mane"
+          ],
+          "answer": "Chaitanya Tamhane",
+          "mode": "easy"
+        },
+        {
+          "question": "Which Marathi movie features the song 'Apsara Aali'?",
+          "options": ["Natarang", "Dholki", "Swaas", "Shwaas"],
+          "answer": "Natarang",
+          "mode": "easy"
+        },
+        {
+          "question": "Who starred as 'Langda Tyagi' in the Marathi movie 'Swaas'?",
+          "options": [
+            "Makarand Deshpande",
+            "Nana Patekar",
+            "Shubha Khote",
+            "Vijay Jadhav"
+          ],
+          "answer": "Makarand Deshpande",
+          "mode": "easy"
+        },
+        {
+          "question": "Which Marathi actor is famous for his role in 'Shwaas'?",
+          "options": [
+            "Makarand Deshpande",
+            "Vijay Jadhav",
+            "Anant Mahadevan",
+            "Urmila Matondkar"
+          ],
+          "answer": "Makarand Deshpande",
+          "mode": "easy"
+        },
+        {
+          "question": "Who is the director of the film 'Swaas'?",
+          "options": [
+            "Sanjay Leela Bhansali",
+            "Nagraj Manjule",
+            "Nitin Desai",
+            "Ravi Jadhav"
+          ],
+          "answer": "Nagraj Manjule",
+          "mode": "easy"
+        },
+        {
+          "question": "Who composed the soundtrack of the movie 'Swaas'?",
+          "options": [
+            "Ajay Atul",
+            "Lalit Pandit",
+            "Bappa Lahiri",
+            "Shankar-Ehsaan-Loy"
+          ],
+          "answer": "Ajay Atul",
+          "mode": "easy"
+        },
+        {
+          "question": "Which Marathi movie featured the song 'Kombdi Palali'?",
+          "options": ["Natarang", "Killa", "Dholki", "Court"],
+          "answer": "Natarang",
+          "mode": "easy"
+        },
+        {
+          "question": "Which actress starred in 'Court'?",
+          "options": [
+            "Geetanjali Thapa",
+            "Urmila Matondkar",
+            "Rekha",
+            "Shubha Khote"
+          ],
+          "answer": "Geetanjali Thapa",
+          "mode": "easy"
+        },
+        {
+          "question": "Which actor played the lead role in the Marathi film 'Killa'?",
+          "options": ["Archit", "Ajinkya", "Ashok Saraf", "Nana Patekar"],
+          "answer": "Ajinkya",
+          "mode": "medium"
+        },
+        {
+          "question": "Who directed the Marathi movie 'Swaas'?",
+          "options": [
+            "Chaitanya Tamhane",
+            "Nagraj Manjule",
+            "Ravi Jadhav",
+            "Shantanu Roy Choudhury"
+          ],
+          "answer": "Nagraj Manjule",
+          "mode": "medium"
+        },
+        {
+          "question": "Who starred in the film 'Court'?",
+          "options": [
+            "Vijay Jadhav",
+            "Makarand Deshpande",
+            "Anant Mahadevan",
+            "Geetanjali Thapa"
+          ],
+          "answer": "Geetanjali Thapa",
+          "mode": "medium"
+        },
+        {
+          "question": "Which Marathi movie has the famous song 'Madhavi Latha'?",
+          "options": ["Swaas", "Dholki", "Natarang", "Swaas"],
+          "answer": "Swaas",
+          "mode": "medium"
+        },
+        {
+          "question": "Who directed the Marathi film 'Natarang'?",
+          "options": [
+            "Nagraj Manjule",
+            "Raj Thackeray",
+            "Viju Mane",
+            "Ravi Jadhav"
+          ],
+          "answer": "Ravi Jadhav",
+          "mode": "medium"
+        },
+        {
+          "question": "Which Marathi film featured a popular song 'Kombdi Palali'?",
+          "options": ["Natarang", "Court", "Shwaas", "Dholki"],
+          "answer": "Natarang",
+          "mode": "medium"
+        },
+        {
+          "question": "Which actor starred in the film 'Court'?",
+          "options": [
+            "Vijay Jadhav",
+            "Rajendra Gupta",
+            "Raj Thackeray",
+            "Anant Mahadevan"
+          ],
+          "answer": "Rajendra Gupta",
+          "mode": "medium"
+        },
+        {
+          "question": "Which Marathi actor has won the Filmfare Award for Best Actor in a leading role?",
+          "options": [
+            "Nana Patekar",
+            "Vijay Jadhav",
+            "Rajendra Gupta",
+            "Ajinkya"
+          ],
+          "answer": "Nana Patekar",
+          "mode": "medium"
+        },
+        {
+          "question": "Which actress starred in 'Court'?",
+          "options": ["Geetanjali Thapa", "Shubha Khote", "Madhavi", "Rani"],
+          "answer": "Geetanjali Thapa",
+          "mode": "medium"
+        },
+        {
+          "question": "Who won the National Award for Best Actor for the movie 'Court'?",
+          "options": [
+            "Rajendra Gupta",
+            "Nana Patekar",
+            "Makarand Deshpande",
+            "Anant Mahadevan"
+          ],
+          "answer": "Rajendra Gupta",
+          "mode": "medium"
+        },
+        {
+          "question": "Which Marathi movie has won the National Award for Best Feature Film?",
+          "options": ["Court", "Natarang", "Swaas", "Shwaas"],
+          "answer": "Court",
+          "mode": "hard"
+        },
+        {
+          "question": "Which Marathi movie won the National Film Award for Best Film in 2017?",
+          "options": ["Swaas", "Court", "Dholki", "Natarang"],
+          "answer": "Swaas",
+          "mode": "hard"
+        },
+        {
+          "question": "Who is the director of the film 'Court'?",
+          "options": [
+            "Chaitanya Tamhane",
+            "Nagraj Manjule",
+            "Ravi Jadhav",
+            "Viju Mane"
+          ],
+          "answer": "Chaitanya Tamhane",
+          "mode": "hard"
+        },
+        {
+          "question": "Which Marathi movie had the famous song 'Shwaas'?",
+          "options": ["Swaas", "Dholki", "Killa", "Natarang"],
+          "answer": "Swaas",
+          "mode": "hard"
+        },
+        {
+          "question": "Which Marathi film won the Best Marathi Film award at the 2016 National Film Awards?",
+          "options": ["Court", "Natarang", "Swaas", "Killa"],
+          "answer": "Court",
+          "mode": "hard"
+        },
+        {
+          "question": "Which actor was awarded the Best Actor award at the 2015 National Film Awards for the Marathi film 'Court'?",
+          "options": [
+            "Rajendra Gupta",
+            "Makarand Deshpande",
+            "Nana Patekar",
+            "Anant Mahadevan"
+          ],
+          "answer": "Rajendra Gupta",
+          "mode": "hard"
+        },
+        {
+          "question": "Which Marathi film won the Golden Lotus at the 2017 National Film Awards?",
+          "options": ["Court", "Killa", "Swaas", "Swaas"],
+          "answer": "Court",
+          "mode": "hard"
+        },
+        {
+          "question": "Which movie won the Best Marathi Film award at the 2014 National Film Awards?",
+          "options": ["Court", "Swaas", "Dholki", "Natarang"],
+          "answer": "Court",
+          "mode": "hard"
+        },
+        {
+          "question": "Which film won the National Award for Best Feature Film in 2017?",
+          "options": ["Swaas", "Court", "Dholki", "Natarang"],
+          "answer": "Swaas",
+          "mode": "hard"
+        },
+        {
+          "question": "Which Marathi actor starred in the film 'Court'?",
+          "options": [
+            "Rajendra Gupta",
+            "Anant Mahadevan",
+            "Nana Patekar",
+            "Makarand Deshpande"
+          ],
+          "answer": "Rajendra Gupta",
+          "mode": "hard"
+        }
+      ],
+      "marvel": [
+        {
+          "question": "Who played Iron Man in the Marvel Cinematic Universe?",
+          "options": [
+            "Chris Hemsworth",
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Tom Hiddleston"
+          ],
+          "answer": "Robert Downey Jr.",
+          "mode": "easy"
+        },
+        {
+          "question": "What is the name of Thor's hammer?",
+          "options": ["Mjolnir", "Stormbreaker", "Excalibur", "Thunderstrike"],
+          "answer": "Mjolnir",
+          "mode": "easy"
+        },
+        {
+          "question": "Which Marvel superhero is known as the 'First Avenger'?",
+          "options": ["Iron Man", "Hawkeye", "Captain America", "Thor"],
+          "answer": "Captain America",
+          "mode": "easy"
+        },
+        {
+          "question": "Which movie features the character 'Black Panther'?",
+          "options": [
+            "Iron Man",
+            "Black Panther",
+            "Captain America: Civil War",
+            "Guardians of the Galaxy"
+          ],
+          "answer": "Black Panther",
+          "mode": "easy"
+        },
+        {
+          "question": "Who is the villain in the movie 'Avengers: Infinity War'?",
+          "options": ["Ultron", "Loki", "Thanos", "Hela"],
+          "answer": "Thanos",
+          "mode": "easy"
+        },
+        {
+          "question": "What is the real name of Black Widow?",
+          "options": [
+            "Natasha Romanoff",
+            "Wanda Maximoff",
+            "Peggy Carter",
+            "Sharon Carter"
+          ],
+          "answer": "Natasha Romanoff",
+          "mode": "easy"
+        },
+        {
+          "question": "Which character says the phrase 'I am Groot'?",
+          "options": ["Rocket Raccoon", "Star-Lord", "Groot", "Gamora"],
+          "answer": "Groot",
+          "mode": "easy"
+        },
+        {
+          "question": "Which Avenger was not present in 'Avengers: Age of Ultron'?",
+          "options": ["Captain America", "Black Widow", "Hawkeye", "Ant-Man"],
+          "answer": "Ant-Man",
+          "mode": "easy"
+        },
+        {
+          "question": "Who played Spider-Man in the Marvel Cinematic Universe?",
+          "options": [
+            "Andrew Garfield",
+            "Tobey Maguire",
+            "Tom Holland",
+            "Chris Hemsworth"
+          ],
+          "answer": "Tom Holland",
+          "mode": "easy"
+        },
+        {
+          "question": "What is the name of the organization that Nick Fury works for?",
+          "options": ["S.H.I.E.L.D.", "Hydra", "The Avengers", "The X-Men"],
+          "answer": "S.H.I.E.L.D.",
+          "mode": "easy"
+        },
+        {
+          "question": "Who is the director of the Marvel movie 'Guardians of the Galaxy'?",
+          "options": [
+            "James Gunn",
+            "Jon Favreau",
+            "Joss Whedon",
+            "Russo Brothers"
+          ],
+          "answer": "James Gunn",
+          "mode": "medium"
+        },
+        {
+          "question": "In which movie did the character 'Vision' first appear?",
+          "options": [
+            "Avengers: Age of Ultron",
+            "Avengers: Endgame",
+            "Captain America: Civil War",
+            "Thor: Ragnarok"
+          ],
+          "answer": "Avengers: Age of Ultron",
+          "mode": "medium"
+        },
+        {
+          "question": "Who is the father of Thor and Loki?",
+          "options": ["Hela", "Odin", "Laufey", "Thanos"],
+          "answer": "Odin",
+          "mode": "medium"
+        },
+        {
+          "question": "What is the name of Tony Stark's AI assistant?",
+          "options": ["F.R.I.D.A.Y.", "J.A.R.V.I.S.", "Ultron", "Friday"],
+          "answer": "J.A.R.V.I.S.",
+          "mode": "medium"
+        },
+        {
+          "question": "What is the name of Captain America's shield?",
+          "options": [
+            "Vibranium Shield",
+            "Titanium Shield",
+            "Iron Shield",
+            "Adamanium Shield"
+          ],
+          "answer": "Vibranium Shield",
+          "mode": "medium"
+        },
+        {
+          "question": "Who plays the character of Doctor Strange?",
+          "options": [
+            "Benedict Cumberbatch",
+            "Chris Hemsworth",
+            "Chris Evans",
+            "Tom Hiddleston"
+          ],
+          "answer": "Benedict Cumberbatch",
+          "mode": "medium"
+        },
+        {
+          "question": "Who is the first villain of the Avengers?",
+          "options": ["Loki", "Ultron", "Hela", "Thanos"],
+          "answer": "Loki",
+          "mode": "medium"
+        },
+        {
+          "question": "Which character is portrayed by Scarlett Johansson?",
+          "options": [
+            "Gamora",
+            "Black Widow",
+            "Wanda Maximoff",
+            "Peggy Carter"
+          ],
+          "answer": "Black Widow",
+          "mode": "medium"
+        },
+        {
+          "question": "Which superhero was part of the 'Civil War' in the MCU?",
+          "options": [
+            "Iron Man",
+            "Spider-Man",
+            "Black Panther",
+            "All of the above"
+          ],
+          "answer": "All of the above",
+          "mode": "medium"
+        },
+        {
+          "question": "What was the name of the Black Panther's home country?",
+          "options": ["Wakanda", "Kamar-Taj", "Sakaar", "Vormir"],
+          "answer": "Wakanda",
+          "mode": "medium"
+        },
+        {
+          "question": "Who was the villain in 'Thor: The Dark World'?",
+          "options": ["Hela", "Ultron", "Malekith", "Loki"],
+          "answer": "Malekith",
+          "mode": "hard"
+        },
+        {
+          "question": "Which Infinity Stone was located on Vormir?",
+          "options": ["Time Stone", "Space Stone", "Soul Stone", "Mind Stone"],
+          "answer": "Soul Stone",
+          "mode": "hard"
+        },
+        {
+          "question": "What is the real name of 'The Winter Soldier'?",
+          "options": [
+            "Steve Rogers",
+            "Bucky Barnes",
+            "Sam Wilson",
+            "James Rhodes"
+          ],
+          "answer": "Bucky Barnes",
+          "mode": "hard"
+        },
+        {
+          "question": "Which Marvel movie features the character 'Shang-Chi'?",
+          "options": [
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Doctor Strange",
+            "Thor: Ragnarok",
+            "Black Panther"
+          ],
+          "answer": "Shang-Chi and the Legend of the Ten Rings",
+          "mode": "hard"
+        },
+        {
+          "question": "In which movie does Captain America say, 'Avengers Assemble'?",
+          "options": [
+            "Avengers: Endgame",
+            "Avengers: Age of Ultron",
+            "Captain America: Civil War",
+            "Avengers: Infinity War"
+          ],
+          "answer": "Avengers: Endgame",
+          "mode": "hard"
+        },
+        {
+          "question": "Who is the actor who plays 'Thanos'?",
+          "options": [
+            "Josh Brolin",
+            "Mark Ruffalo",
+            "Chris Hemsworth",
+            "Chris Evans"
+          ],
+          "answer": "Josh Brolin",
+          "mode": "hard"
+        },
+        {
+          "question": "What is the name of the spaceship used by the Guardians of the Galaxy?",
+          "options": [
+            "Star Destroyer",
+            "Milano",
+            "Ant-Man",
+            "Avengers Quinjet"
+          ],
+          "answer": "Milano",
+          "mode": "hard"
+        },
+        {
+          "question": "Which superhero’s real name is Wanda Maximoff?",
+          "options": ["Scarlet Witch", "Black Widow", "Gamora", "Storm"],
+          "answer": "Scarlet Witch",
+          "mode": "hard"
+        },
+        {
+          "question": "Who is the ruler of the planet Xandar?",
+          "options": ["The Collector", "Yondu", "Nova Prime", "Thanos"],
+          "answer": "Nova Prime",
+          "mode": "hard"
+        },
+        {
+          "question": "Who was the first superhero to appear in the MCU?",
+          "options": ["Iron Man", "The Hulk", "Thor", "Captain America"],
+          "answer": "Iron Man",
+          "mode": "hard"
+        }
+      ]
+    },
+    "sports": {
+      "cricket": [
+        {
+          "question": "Who is known as the 'Master Blaster' in cricket?",
+          "options": [
+            "Sachin Tendulkar",
+            "Ricky Ponting",
+            "Brian Lara",
+            "Virat Kohli"
+          ],
+          "answer": "Sachin Tendulkar",
+          "mode": "easy"
+        },
+        {
+          "question": "What is the maximum number of overs in a T20 match?",
+          "options": ["10", "20", "50", "100"],
+          "answer": "20",
+          "mode": "easy"
+        },
+        {
+          "question": "Which country won the ICC Cricket World Cup 2019?",
+          "options": ["India", "Australia", "England", "New Zealand"],
+          "answer": "England",
+          "mode": "easy"
+        },
+        {
+          "question": "Which bowler is famous for the 'Doosra' delivery?",
+          "options": [
+            "Shane Warne",
+            "Muttiah Muralitharan",
+            "Saqlain Mushtaq",
+            "Harbhajan Singh"
+          ],
+          "answer": "Saqlain Mushtaq",
+          "mode": "easy"
+        },
+        {
+          "question": "Which cricketer is known as 'The Wall'?",
+          "options": [
+            "Rahul Dravid",
+            "Virender Sehwag",
+            "MS Dhoni",
+            "Kumar Sangakkara"
+          ],
+          "answer": "Rahul Dravid",
+          "mode": "easy"
+        },
+        {
+          "question": "What is the full form of IPL?",
+          "options": [
+            "Indian Premier League",
+            "International Premier League",
+            "Indian Players League",
+            "International Players League"
+          ],
+          "answer": "Indian Premier League",
+          "mode": "easy"
+        },
+        {
+          "question": "Which cricketer has scored the most runs in ODIs?",
+          "options": [
+            "Ricky Ponting",
+            "Virat Kohli",
+            "Sachin Tendulkar",
+            "Shane Watson"
+          ],
+          "answer": "Sachin Tendulkar",
+          "mode": "easy"
+        },
+        {
+          "question": "In cricket, how many runs is a 'no ball' worth?",
+          "options": ["1", "2", "3", "4"],
+          "answer": "1",
+          "mode": "easy"
+        },
+        {
+          "question": "Which country invented the game of cricket?",
+          "options": ["India", "Australia", "England", "South Africa"],
+          "answer": "England",
+          "mode": "easy"
+        },
+        {
+          "question": "What is a duck in cricket?",
+          "options": [
+            "When a player gets out for 0 runs",
+            "A ball delivery",
+            "When a player scores 100",
+            "When a player gets out on the first ball"
+          ],
+          "answer": "When a player gets out for 0 runs",
+          "mode": "easy"
+        },
+        {
+          "question": "Who holds the record for the fastest century in ODI cricket?",
+          "options": [
+            "Shahid Afridi",
+            "AB de Villiers",
+            "Virat Kohli",
+            "Martin Guptill"
+          ],
+          "answer": "AB de Villiers",
+          "mode": "medium"
+        },
+        {
+          "question": "Which team has won the most ICC T20 World Cups?",
+          "options": ["India", "Pakistan", "Australia", "West Indies"],
+          "answer": "West Indies",
+          "mode": "medium"
+        },
+        {
+          "question": "Who is the highest wicket-taker in Test cricket?",
+          "options": [
+            "Muttiah Muralitharan",
+            "Shane Warne",
+            "Anil Kumble",
+            "Ravi Ashwin"
+          ],
+          "answer": "Muttiah Muralitharan",
+          "mode": "medium"
+        },
+        {
+          "question": "Which cricketer was known as 'The Little Master'?",
+          "options": [
+            "Sunil Gavaskar",
+            "Shane Warne",
+            "Javed Miandad",
+            "Kapil Dev"
+          ],
+          "answer": "Sunil Gavaskar",
+          "mode": "medium"
+        },
+        {
+          "question": "Which country did MS Dhoni lead to their first T20 World Cup victory?",
+          "options": ["India", "Sri Lanka", "Pakistan", "Bangladesh"],
+          "answer": "India",
+          "mode": "medium"
+        },
+        {
+          "question": "In cricket, what is the term for a delivery that bounces twice?",
+          "options": ["Full toss", "Short ball", "No ball", "Double bounce"],
+          "answer": "Double bounce",
+          "mode": "medium"
+        },
+        {
+          "question": "Who hit the fastest century in T20 cricket?",
+          "options": [
+            "Shahid Afridi",
+            "Chris Gayle",
+            "AB de Villiers",
+            "David Miller"
+          ],
+          "answer": "Chris Gayle",
+          "mode": "medium"
+        },
+        {
+          "question": "What is the name of the cricket ground located in Melbourne, Australia?",
+          "options": ["Old Trafford", "Eden Gardens", "MCG", "Lord's"],
+          "answer": "MCG",
+          "mode": "medium"
+        },
+        {
+          "question": "Which cricketer is known for his helicopter shot?",
+          "options": [
+            "MS Dhoni",
+            "Ricky Ponting",
+            "Virender Sehwag",
+            "Yuvraj Singh"
+          ],
+          "answer": "MS Dhoni",
+          "mode": "medium"
+        },
+        {
+          "question": "Which cricketer is called the 'King of Spin'?",
+          "options": [
+            "Shane Warne",
+            "Muttiah Muralitharan",
+            "Anil Kumble",
+            "Ravichandran Ashwin"
+          ],
+          "answer": "Muttiah Muralitharan",
+          "mode": "medium"
+        },
+        {
+          "question": "Who has the highest batting average in Test cricket?",
+          "options": [
+            "Don Bradman",
+            "Sachin Tendulkar",
+            "Virat Kohli",
+            "Jacques Kallis"
+          ],
+          "answer": "Don Bradman",
+          "mode": "hard"
+        },
+        {
+          "question": "Which cricketer scored the most runs in a single Test match?",
+          "options": [
+            "Brian Lara",
+            "Sachin Tendulkar",
+            "Ricky Ponting",
+            "Mark Waugh"
+          ],
+          "answer": "Brian Lara",
+          "mode": "hard"
+        },
+        {
+          "question": "Which cricketer holds the record for most runs in a calendar year in ODI cricket?",
+          "options": [
+            "Virat Kohli",
+            "Sachin Tendulkar",
+            "Chris Gayle",
+            "AB de Villiers"
+          ],
+          "answer": "Virat Kohli",
+          "mode": "hard"
+        },
+        {
+          "question": "Who is the youngest cricketer to score a century in the World Cup?",
+          "options": [
+            "Shubman Gill",
+            "Sachin Tendulkar",
+            "Joe Root",
+            "Ricky Ponting"
+          ],
+          "answer": "Shubman Gill",
+          "mode": "hard"
+        },
+        {
+          "question": "What was the first-ever country to host a World Cup?",
+          "options": ["India", "England", "Australia", "South Africa"],
+          "answer": "England",
+          "mode": "hard"
+        },
+        {
+          "question": "Who holds the record for the most wickets in T20 internationals?",
+          "options": [
+            "Shakib Al Hasan",
+            "Lasith Malinga",
+            "Dwayne Bravo",
+            "Rashid Khan"
+          ],
+          "answer": "Lasith Malinga",
+          "mode": "hard"
+        },
+        {
+          "question": "Who was the captain of the Indian cricket team before MS Dhoni?",
+          "options": [
+            "Sourav Ganguly",
+            "Kapil Dev",
+            "Anil Kumble",
+            "Sachin Tendulkar"
+          ],
+          "answer": "Sourav Ganguly",
+          "mode": "hard"
+        },
+        {
+          "question": "What was the fastest delivery bowled in cricket history?",
+          "options": ["161.3 km/h", "155.4 km/h", "153.5 km/h", "149.5 km/h"],
+          "answer": "161.3 km/h",
+          "mode": "hard"
+        },
+        {
+          "question": "Which Indian cricketer is famous for his 'dilscoop' shot?",
+          "options": [
+            "Yuvraj Singh",
+            "MS Dhoni",
+            "Suresh Raina",
+            "Shikhar Dhawan"
+          ],
+          "answer": "MS Dhoni",
+          "mode": "hard"
+        },
+        {
+          "question": "Which bowler is known for the 'Chin Music'?",
+          "options": [
+            "Shane Warne",
+            "Brett Lee",
+            "Wasim Akram",
+            "Shoaib Akhtar"
+          ],
+          "answer": "Brett Lee",
+          "mode": "hard"
+        }
+      ],
+      "football": [
+        {
+          "question": "Which country won the FIFA World Cup 2018?",
+          "options": ["Brazil", "Germany", "France", "Argentina"],
+          "answer": "France",
+          "mode": "easy"
+        },
+        {
+          "question": "Who is known as the 'King of Football'?",
+          "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Pelé",
+            "Diego Maradona"
+          ],
+          "answer": "Pelé",
+          "mode": "easy"
+        },
+        {
+          "question": "Which footballer is known for his 'Ronaldo Chop' move?",
+          "options": [
+            "Cristiano Ronaldo",
+            "Neymar",
+            "Lionel Messi",
+            "Zlatan Ibrahimović"
+          ],
+          "answer": "Cristiano Ronaldo",
+          "mode": "easy"
+        },
+        {
+          "question": "Which football club is known as 'The Red Devils'?",
+          "options": ["Liverpool", "Manchester United", "Chelsea", "Arsenal"],
+          "answer": "Manchester United",
+          "mode": "easy"
+        },
+        {
+          "question": "Which footballer holds the record for the most Ballon d'Or awards?",
+          "options": [
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Ronaldinho",
+            "Zlatan Ibrahimović"
+          ],
+          "answer": "Lionel Messi",
+          "mode": "easy"
+        },
+        {
+          "question": "Which country is the home of the famous footballer Cristiano Ronaldo?",
+          "options": ["Spain", "Portugal", "Argentina", "Brazil"],
+          "answer": "Portugal",
+          "mode": "easy"
+        },
+        {
+          "question": "Who is the all-time top scorer in the history of the English Premier League?",
+          "options": [
+            "Wayne Rooney",
+            "Cristiano Ronaldo",
+            "Sergio Agüero",
+            "Thierry Henry"
+          ],
+          "answer": "Wayne Rooney",
+          "mode": "easy"
+        },
+        {
+          "question": "Which team won the UEFA Champions League in 2020?",
+          "options": ["Barcelona", "Bayern Munich", "Real Madrid", "Liverpool"],
+          "answer": "Bayern Munich",
+          "mode": "easy"
+        },
+        {
+          "question": "Which country is the birthplace of football legend Diego Maradona?",
+          "options": ["Argentina", "Brazil", "Italy", "Uruguay"],
+          "answer": "Argentina",
+          "mode": "easy"
+        },
+        {
+          "question": "Which country has won the most FIFA World Cup titles?",
+          "options": ["Brazil", "Germany", "Argentina", "Italy"],
+          "answer": "Brazil",
+          "mode": "easy"
+        },
+        {
+          "question": "Which country hosted the 2014 FIFA World Cup?",
+          "options": ["Brazil", "South Africa", "Germany", "Russia"],
+          "answer": "Brazil",
+          "mode": "medium"
+        },
+        {
+          "question": "Which footballer holds the record for the most goals in a single calendar year?",
+          "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Gerd Müller",
+            "Neymar"
+          ],
+          "answer": "Lionel Messi",
+          "mode": "medium"
+        },
+        {
+          "question": "Which football club is known as 'Los Blancos'?",
+          "options": [
+            "Barcelona",
+            "Real Madrid",
+            "Atletico Madrid",
+            "Valencia"
+          ],
+          "answer": "Real Madrid",
+          "mode": "medium"
+        },
+        {
+          "question": "Who is the all-time top scorer in the history of the FIFA World Cup?",
+          "options": ["Pele", "Ronaldo Nazário", "Marta", "Miroslav Klose"],
+          "answer": "Miroslav Klose",
+          "mode": "medium"
+        },
+        {
+          "question": "Who is the first player to win 5 Ballon d'Or titles?",
+          "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Michel Platini",
+            "Zinedine Zidane"
+          ],
+          "answer": "Cristiano Ronaldo",
+          "mode": "medium"
+        },
+        {
+          "question": "Which football club has won the most UEFA Champions League titles?",
+          "options": ["AC Milan", "Liverpool", "Barcelona", "Real Madrid"],
+          "answer": "Real Madrid",
+          "mode": "medium"
+        },
+        {
+          "question": "Who is known as 'The Egyptian King' in football?",
+          "options": [
+            "Mohamed Salah",
+            "Trezeguet",
+            "Mahmoud Hassan",
+            "Ahmed Fathi"
+          ],
+          "answer": "Mohamed Salah",
+          "mode": "medium"
+        },
+        {
+          "question": "Which country won the Euro 2016 tournament?",
+          "options": ["Spain", "Portugal", "Germany", "France"],
+          "answer": "Portugal",
+          "mode": "medium"
+        },
+        {
+          "question": "Who won the Golden Boot in the 2018 FIFA World Cup?",
+          "options": [
+            "Lionel Messi",
+            "Harry Kane",
+            "Kylian Mbappé",
+            "Cristiano Ronaldo"
+          ],
+          "answer": "Harry Kane",
+          "mode": "medium"
+        },
+        {
+          "question": "Which player is known as 'The Pharaoh' in football?",
+          "options": [
+            "Mohamed Salah",
+            "Sadio Mane",
+            "Pierre-Emerick Aubameyang",
+            "Neymar"
+          ],
+          "answer": "Mohamed Salah",
+          "mode": "medium"
+        },
+        {
+          "question": "Which footballer scored the fastest goal in the history of the Premier League?",
+          "options": [
+            "Sergio Agüero",
+            "Cristiano Ronaldo",
+            "Shane Long",
+            "Wayne Rooney"
+          ],
+          "answer": "Shane Long",
+          "mode": "hard"
+        },
+        {
+          "question": "Which country was the first to win the FIFA World Cup?",
+          "options": ["Argentina", "Brazil", "Italy", "Uruguay"],
+          "answer": "Uruguay",
+          "mode": "hard"
+        },
+        {
+          "question": "Who was the manager of the England national team during the 1966 World Cup victory?",
+          "options": [
+            "Alf Ramsey",
+            "Bobby Robson",
+            "Harry Redknapp",
+            "Gareth Southgate"
+          ],
+          "answer": "Alf Ramsey",
+          "mode": "hard"
+        },
+        {
+          "question": "Who is the only footballer to have won the Ballon d'Or and the World Cup in the same year?",
+          "options": [
+            "Ronaldinho",
+            "Zinedine Zidane",
+            "Kaká",
+            "Ronaldo Nazário"
+          ],
+          "answer": "Ronaldo Nazário",
+          "mode": "hard"
+        },
+        {
+          "question": "Who is the all-time top scorer in the UEFA Champions League?",
+          "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Raúl",
+            "Karim Benzema"
+          ],
+          "answer": "Cristiano Ronaldo",
+          "mode": "hard"
+        },
+        {
+          "question": "Who holds the record for the most appearances in the Premier League?",
+          "options": [
+            "Ryan Giggs",
+            "Frank Lampard",
+            "Steven Gerrard",
+            "Gareth Barry"
+          ],
+          "answer": "Gareth Barry",
+          "mode": "hard"
+        },
+        {
+          "question": "Which club did Cristiano Ronaldo join after leaving Manchester United in 2009?",
+          "options": [
+            "Juventus",
+            "Real Madrid",
+            "Chelsea",
+            "Paris Saint-Germain"
+          ],
+          "answer": "Real Madrid",
+          "mode": "hard"
+        },
+        {
+          "question": "Which country has hosted the most FIFA World Cup tournaments?",
+          "options": ["Italy", "Brazil", "Germany", "Mexico"],
+          "answer": "Brazil",
+          "mode": "hard"
+        },
+        {
+          "question": "Who was the first African player to win the Ballon d'Or?",
+          "options": [
+            "George Weah",
+            "Didier Drogba",
+            "Samuel Eto'o",
+            "Jay-Jay Okocha"
+          ],
+          "answer": "George Weah",
+          "mode": "hard"
+        },
+        {
+          "question": "Which player has the most international goals in football history?",
+          "options": ["Cristiano Ronaldo", "Ali Daei", "Marta", "Lionel Messi"],
+          "answer": "Cristiano Ronaldo",
+          "mode": "hard"
+        }
+      ],
+      "olympics": [
+        {
+          "question": "Which country won the FIFA World Cup 2018?",
+          "options": ["Brazil", "Germany", "France", "Argentina"],
+          "answer": "France",
+          "mode": "easy"
+        },
+        {
+          "question": "Who is known as the 'King of Football'?",
+          "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Pelé",
+            "Diego Maradona"
+          ],
+          "answer": "Pelé",
+          "mode": "easy"
+        },
+        {
+          "question": "Which footballer is known for his 'Ronaldo Chop' move?",
+          "options": [
+            "Cristiano Ronaldo",
+            "Neymar",
+            "Lionel Messi",
+            "Zlatan Ibrahimović"
+          ],
+          "answer": "Cristiano Ronaldo",
+          "mode": "easy"
+        },
+        {
+          "question": "Which football club is known as 'The Red Devils'?",
+          "options": ["Liverpool", "Manchester United", "Chelsea", "Arsenal"],
+          "answer": "Manchester United",
+          "mode": "easy"
+        },
+        {
+          "question": "Which footballer holds the record for the most Ballon d'Or awards?",
+          "options": [
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Ronaldinho",
+            "Zlatan Ibrahimović"
+          ],
+          "answer": "Lionel Messi",
+          "mode": "easy"
+        },
+        {
+          "question": "Which country is the home of the famous footballer Cristiano Ronaldo?",
+          "options": ["Spain", "Portugal", "Argentina", "Brazil"],
+          "answer": "Portugal",
+          "mode": "easy"
+        },
+        {
+          "question": "Who is the all-time top scorer in the history of the English Premier League?",
+          "options": [
+            "Wayne Rooney",
+            "Cristiano Ronaldo",
+            "Sergio Agüero",
+            "Thierry Henry"
+          ],
+          "answer": "Wayne Rooney",
+          "mode": "easy"
+        },
+        {
+          "question": "Which team won the UEFA Champions League in 2020?",
+          "options": ["Barcelona", "Bayern Munich", "Real Madrid", "Liverpool"],
+          "answer": "Bayern Munich",
+          "mode": "easy"
+        },
+        {
+          "question": "Which country is the birthplace of football legend Diego Maradona?",
+          "options": ["Argentina", "Brazil", "Italy", "Uruguay"],
+          "answer": "Argentina",
+          "mode": "easy"
+        },
+        {
+          "question": "Which country has won the most FIFA World Cup titles?",
+          "options": ["Brazil", "Germany", "Argentina", "Italy"],
+          "answer": "Brazil",
+          "mode": "easy"
+        },
+        {
+          "question": "Which country hosted the 2014 FIFA World Cup?",
+          "options": ["Brazil", "South Africa", "Germany", "Russia"],
+          "answer": "Brazil",
+          "mode": "medium"
+        },
+        {
+          "question": "Which footballer holds the record for the most goals in a single calendar year?",
+          "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Gerd Müller",
+            "Neymar"
+          ],
+          "answer": "Lionel Messi",
+          "mode": "medium"
+        },
+        {
+          "question": "Which football club is known as 'Los Blancos'?",
+          "options": [
+            "Barcelona",
+            "Real Madrid",
+            "Atletico Madrid",
+            "Valencia"
+          ],
+          "answer": "Real Madrid",
+          "mode": "medium"
+        },
+        {
+          "question": "Who is the all-time top scorer in the history of the FIFA World Cup?",
+          "options": ["Pele", "Ronaldo Nazário", "Marta", "Miroslav Klose"],
+          "answer": "Miroslav Klose",
+          "mode": "medium"
+        },
+        {
+          "question": "Who is the first player to win 5 Ballon d'Or titles?",
+          "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Michel Platini",
+            "Zinedine Zidane"
+          ],
+          "answer": "Cristiano Ronaldo",
+          "mode": "medium"
+        },
+        {
+          "question": "Which football club has won the most UEFA Champions League titles?",
+          "options": ["AC Milan", "Liverpool", "Barcelona", "Real Madrid"],
+          "answer": "Real Madrid",
+          "mode": "medium"
+        },
+        {
+          "question": "Who is known as 'The Egyptian King' in football?",
+          "options": [
+            "Mohamed Salah",
+            "Trezeguet",
+            "Mahmoud Hassan",
+            "Ahmed Fathi"
+          ],
+          "answer": "Mohamed Salah",
+          "mode": "medium"
+        },
+        {
+          "question": "Which country won the Euro 2016 tournament?",
+          "options": ["Spain", "Portugal", "Germany", "France"],
+          "answer": "Portugal",
+          "mode": "medium"
+        },
+        {
+          "question": "Who won the Golden Boot in the 2018 FIFA World Cup?",
+          "options": [
+            "Lionel Messi",
+            "Harry Kane",
+            "Kylian Mbappé",
+            "Cristiano Ronaldo"
+          ],
+          "answer": "Harry Kane",
+          "mode": "medium"
+        },
+        {
+          "question": "Which player is known as 'The Pharaoh' in football?",
+          "options": [
+            "Mohamed Salah",
+            "Sadio Mane",
+            "Pierre-Emerick Aubameyang",
+            "Neymar"
+          ],
+          "answer": "Mohamed Salah",
+          "mode": "medium"
+        },
+        {
+          "question": "Which footballer scored the fastest goal in the history of the Premier League?",
+          "options": [
+            "Sergio Agüero",
+            "Cristiano Ronaldo",
+            "Shane Long",
+            "Wayne Rooney"
+          ],
+          "answer": "Shane Long",
+          "mode": "hard"
+        },
+        {
+          "question": "Which country was the first to win the FIFA World Cup?",
+          "options": ["Argentina", "Brazil", "Italy", "Uruguay"],
+          "answer": "Uruguay",
+          "mode": "hard"
+        },
+        {
+          "question": "Who was the manager of the England national team during the 1966 World Cup victory?",
+          "options": [
+            "Alf Ramsey",
+            "Bobby Robson",
+            "Harry Redknapp",
+            "Gareth Southgate"
+          ],
+          "answer": "Alf Ramsey",
+          "mode": "hard"
+        },
+        {
+          "question": "Who is the only footballer to have won the Ballon d'Or and the World Cup in the same year?",
+          "options": [
+            "Ronaldinho",
+            "Zinedine Zidane",
+            "Kaká",
+            "Ronaldo Nazário"
+          ],
+          "answer": "Ronaldo Nazário",
+          "mode": "hard"
+        },
+        {
+          "question": "Who is the all-time top scorer in the UEFA Champions League?",
+          "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Raúl",
+            "Karim Benzema"
+          ],
+          "answer": "Cristiano Ronaldo",
+          "mode": "hard"
+        },
+        {
+          "question": "Who holds the record for the most appearances in the Premier League?",
+          "options": [
+            "Ryan Giggs",
+            "Frank Lampard",
+            "Steven Gerrard",
+            "Gareth Barry"
+          ],
+          "answer": "Gareth Barry",
+          "mode": "hard"
+        },
+        {
+          "question": "Which club did Cristiano Ronaldo join after leaving Manchester United in 2009?",
+          "options": [
+            "Juventus",
+            "Real Madrid",
+            "Chelsea",
+            "Paris Saint-Germain"
+          ],
+          "answer": "Real Madrid",
+          "mode": "hard"
+        },
+        {
+          "question": "Which country has hosted the most FIFA World Cup tournaments?",
+          "options": ["Italy", "Brazil", "Germany", "Mexico"],
+          "answer": "Brazil",
+          "mode": "hard"
+        },
+        {
+          "question": "Who was the first African player to win the Ballon d'Or?",
+          "options": [
+            "George Weah",
+            "Didier Drogba",
+            "Samuel Eto'o",
+            "Jay-Jay Okocha"
+          ],
+          "answer": "George Weah",
+          "mode": "hard"
+        },
+        {
+          "question": "Which player has the most international goals in football history?",
+          "options": ["Cristiano Ronaldo", "Ali Daei", "Marta", "Lionel Messi"],
+          "answer": "Cristiano Ronaldo",
+          "mode": "hard"
+        }
+      ]
+    },
+    "javascript": [
+      {
+        "question": "Which keyword is used to declare a variable in JavaScript?",
+        "options": ["var", "let", "const", "All of the above"],
+        "answer": "All of the above",
+        "mode": "easy"
+      },
+      {
+        "question": "What is the value of an uninitialized variable in JavaScript?",
+        "options": ["null", "undefined", "0", "NaN"],
+        "answer": "undefined",
+        "mode": "easy"
+      },
+      {
+        "question": "Which of the following is a correct way to declare a function in JavaScript?",
+        "options": [
+          "function myFunction()",
+          "function = myFunction()",
+          "let myFunction()",
+          "None of the above"
+        ],
+        "answer": "function myFunction()",
+        "mode": "easy"
+      },
+      {
+        "question": "What is the result of '5' + 5 in JavaScript?",
+        "options": ["10", "55", "Error", "undefined"],
+        "answer": "55",
+        "mode": "easy"
+      },
+      {
+        "question": "Which of these is a loop structure in JavaScript?",
+        "options": ["for", "while", "do...while", "All of the above"],
+        "answer": "All of the above",
+        "mode": "easy"
+      },
+      {
+        "question": "What is the correct syntax for an if statement?",
+        "options": [
+          "if (condition) {}",
+          "if {condition} {}",
+          "if (condition); {}",
+          "if condition {}"
+        ],
+        "answer": "if (condition) {}",
+        "mode": "easy"
+      },
+      {
+        "question": "Which operator is used to assign a value to a variable?",
+        "options": ["=", "==", "===", "=>"],
+        "answer": "=",
+        "mode": "easy"
+      },
+      {
+        "question": "What is the correct way to check if a variable is an array?",
+        "options": [
+          "Array.isArray(variable)",
+          "variable.isArray()",
+          "typeof variable === 'array'",
+          "None of the above"
+        ],
+        "answer": "Array.isArray(variable)",
+        "mode": "easy"
+      },
+      {
+        "question": "How do you write an infinite loop?",
+        "options": [
+          "while(true) {}",
+          "for(;;) {}",
+          "while(1) {}",
+          "All of the above"
+        ],
+        "answer": "All of the above",
+        "mode": "easy"
+      },
+      {
+        "question": "Which keyword is used to define a constant?",
+        "options": ["const", "let", "var", "constant"],
+        "answer": "const",
+        "mode": "easy"
+      },
+      {
+        "question": "Which of the following methods adds an element to the end of an array?",
+        "options": ["push()", "pop()", "shift()", "unshift()"],
+        "answer": "push()",
+        "mode": "easy"
+      },
+      {
+        "question": "What is the method used to remove the last element from an array?",
+        "options": ["pop()", "shift()", "push()", "unshift()"],
+        "answer": "pop()",
+        "mode": "easy"
+      },
+      {
+        "question": "Which method is used to add an element to the start of an array?",
+        "options": ["push()", "pop()", "shift()", "unshift()"],
+        "answer": "unshift()",
+        "mode": "easy"
+      },
+      {
+        "question": "How do you create a new object in JavaScript?",
+        "options": [
+          "{}",
+          "new Object()",
+          "Object.create()",
+          "All of the above"
+        ],
+        "answer": "All of the above",
+        "mode": "easy"
+      },
+      {
+        "question": "Which of these is used to convert a string into a number?",
+        "options": [
+          "Number('5')",
+          "parseInt('5')",
+          "parseFloat('5')",
+          "All of the above"
+        ],
+        "answer": "All of the above",
+        "mode": "easy"
+      },
+      {
+        "question": "Which method is used to remove the first element from an array?",
+        "options": ["shift()", "pop()", "push()", "unshift()"],
+        "answer": "shift()",
+        "mode": "easy"
+      },
+      {
+        "question": "Which of the following methods converts a string to uppercase?",
+        "options": [
+          "toUpperCase()",
+          "toLowerCase()",
+          "toString()",
+          "toFixed()"
+        ],
+        "answer": "toUpperCase()",
+        "mode": "medium"
+      },
+      {
+        "question": "What does the 'push()' method do in an array?",
+        "options": [
+          "Adds an element to the end",
+          "Adds an element to the start",
+          "Removes the first element",
+          "Removes the last element"
+        ],
+        "answer": "Adds an element to the end",
+        "mode": "medium"
+      },
+      {
+        "question": "Which method is used to find the index of a value in an array?",
+        "options": ["indexOf()", "find()", "search()", "locate()"],
+        "answer": "indexOf()",
+        "mode": "medium"
+      },
+      {
+        "question": "Which of the following methods will return the length of a string?",
+        "options": ["length", "size", "count", "length()"],
+        "answer": "length",
+        "mode": "medium"
+      },
+      {
+        "question": "How do you convert a string into an array?",
+        "options": ["split()", "slice()", "join()", "array()"],
+        "answer": "split()",
+        "mode": "medium"
+      },
+      {
+        "question": "Which method is used to merge two or more arrays?",
+        "options": ["concat()", "join()", "merge()", "combine()"],
+        "answer": "concat()",
+        "mode": "medium"
+      },
+      {
+        "question": "What does the 'slice()' method do to an array?",
+        "options": [
+          "Adds a new element",
+          "Removes an element",
+          "Returns a shallow copy of a part of an array",
+          "Reverses the array"
+        ],
+        "answer": "Returns a shallow copy of a part of an array",
+        "mode": "medium"
+      },
+      {
+        "question": "Which method is used to join an array into a string?",
+        "options": ["join()", "concat()", "slice()", "push()"],
+        "answer": "join()",
+        "mode": "medium"
+      },
+      {
+        "question": "Which of the following methods removes the last element from an array?",
+        "options": ["pop()", "shift()", "unshift()", "push()"],
+        "answer": "pop()",
+        "mode": "medium"
+      },
+      {
+        "question": "Which of these methods is used to check if an object has a certain property?",
+        "options": ["hasOwnProperty()", "include()", "in", "propertyExists()"],
+        "answer": "hasOwnProperty()",
+        "mode": "medium"
+      },
+      {
+        "question": "How do you check the type of a variable in JavaScript?",
+        "options": ["typeof", "type()", "checkType()", "varType()"],
+        "answer": "typeof",
+        "mode": "medium"
+      },
+      {
+        "question": "What will be the result of '5' == 5?",
+        "options": ["true", "false", "undefined", "NaN"],
+        "answer": "true",
+        "mode": "medium"
+      },
+      {
+        "question": "Which method is used to remove all elements from an array?",
+        "options": ["clear()", "splice()", "pop()", "shift()"],
+        "answer": "splice()",
+        "mode": "medium"
+      },
+      {
+        "question": "Which operator is used to compare both value and type in JavaScript?",
+        "options": ["==", "===", "=", "!="],
+        "answer": "===",
+        "mode": "medium"
+      },
+      {
+        "question": "What does the 'split()' method do in JavaScript?",
+        "options": [
+          "Splits a string into an array of substrings",
+          "Merges an array into a string",
+          "Compares two strings",
+          "None of the above"
+        ],
+        "answer": "Splits a string into an array of substrings",
+        "mode": "medium"
+      },
+      {
+        "question": "What is the result of '5' + 5 in JavaScript?",
+        "options": ["10", "55", "Error", "undefined"],
+        "answer": "55",
+        "mode": "hard"
+      },
+      {
+        "question": "What is the result of [] + [] in JavaScript?",
+        "options": ["[1, 2, 3]", "[5, 2, 3]", "1,23,4", "''"],
+        "answer": "''",
+        "mode": "hard"
+      },
+      {
+        "question": "What is the result of 5 + '5' in JavaScript?",
+        "options": ["55", "10", "55 is NaN", "Error"],
+        "answer": "55",
+        "mode": "hard"
+      },
+      {
+        "question": "Which method is used to check if a string contains a specific substring?",
+        "options": ["includes()", "contains()", "find()", "search()"],
+        "answer": "includes()",
+        "mode": "hard"
+      },
+      {
+        "question": "What is the purpose of the 'map()' method in JavaScript?",
+        "options": [
+          "To create a new array with the results of calling a provided function on every element",
+          "To sort an array",
+          "To check if an element exists",
+          "To remove elements from an array"
+        ],
+        "answer": "To create a new array with the results of calling a provided function on every element",
+        "mode": "hard"
+      },
+      {
+        "question": "What will be the output of the following code: console.log(0 == '0')?",
+        "options": ["true", "false", "undefined", "NaN"],
+        "answer": "true",
+        "mode": "hard"
+      },
+      {
+        "question": "Which method is used to check if a variable is an array?",
+        "options": [
+          "Array.isArray()",
+          "instanceof Array",
+          "isArray()",
+          "None of the above"
+        ],
+        "answer": "Array.isArray()",
+        "mode": "hard"
+      },
+      {
+        "question": "What is the result of the expression {} + []?",
+        "options": ["[object Object]", "[object Object][]", "{}", "[]"],
+        "answer": "[object Object][]",
+        "mode": "hard"
+      },
+      {
+        "question": "Which of these is the correct way to handle errors in JavaScript?",
+        "options": ["try/catch", "throw", "catch/throw", "All of the above"],
+        "answer": "All of the above",
+        "mode": "hard"
+      },
+      {
+        "question": "What is the result of the following expression: NaN === NaN?",
+        "options": ["true", "false", "undefined", "Error"],
+        "answer": "false",
+        "mode": "hard"
+      }
+    ],
+    "indiaHistory": [
+      {
+        "question": "Who was the first Emperor of the Maurya Dynasty?",
+        "options": ["Chandragupta Maurya", "Ashoka", "Bindusara", "Kautilya"],
+        "answer": "Chandragupta Maurya",
+        "mode": "easy"
+      },
+      {
+        "question": "Who was the founder of the Mughal Empire?",
+        "options": ["Akbar", "Babur", "Shah Jahan", "Aurangzeb"],
+        "answer": "Babur",
+        "mode": "easy"
+      },
+      {
+        "question": "Who was the first female ruler of India?",
+        "options": [
+          "Rani Lakshmi Bai",
+          "Razia Sultana",
+          "Indira Gandhi",
+          "Sarojini Naidu"
+        ],
+        "answer": "Razia Sultana",
+        "mode": "easy"
+      },
+      {
+        "question": "Who wrote the Indian national song 'Vande Mataram'?",
+        "options": [
+          "Bankim Chandra Chattopadhyay",
+          "Rabindranath Tagore",
+          "Subhas Chandra Bose",
+          "Satyendranath Tagore"
+        ],
+        "answer": "Bankim Chandra Chattopadhyay",
+        "mode": "easy"
+      },
+      {
+        "question": "Who led the Salt March in 1930?",
+        "options": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Sardar Vallabhbhai Patel",
+          "Subhas Chandra Bose"
+        ],
+        "answer": "Mahatma Gandhi",
+        "mode": "easy"
+      },
+      {
+        "question": "Who was the last Governor-General of independent India?",
+        "options": [
+          "Lord Mountbatten",
+          "C. Rajagopalachari",
+          "Jawaharlal Nehru",
+          "Lal Bahadur Shastri"
+        ],
+        "answer": "C. Rajagopalachari",
+        "mode": "easy"
+      },
+      {
+        "question": "When was the Indian Independence Act passed?",
+        "options": ["1947", "1950", "1942", "1930"],
+        "answer": "1947",
+        "mode": "easy"
+      },
+      {
+        "question": "Who was the first President of India?",
+        "options": [
+          "Dr. Rajendra Prasad",
+          "Dr. Sarvepalli Radhakrishnan",
+          "Jawaharlal Nehru",
+          "Dr. Zakir Husain"
+        ],
+        "answer": "Dr. Rajendra Prasad",
+        "mode": "easy"
+      },
+      {
+        "question": "Who is known as the 'Father of the Nation' in India?",
+        "options": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "B.R. Ambedkar",
+          "Subhas Chandra Bose"
+        ],
+        "answer": "Mahatma Gandhi",
+        "mode": "easy"
+      },
+      {
+        "question": "Which Indian freedom fighter was known as 'Netaji'?",
+        "options": [
+          "Subhas Chandra Bose",
+          "Chandra Shekhar Azad",
+          "Bhagat Singh",
+          "Lala Lajpat Rai"
+        ],
+        "answer": "Subhas Chandra Bose",
+        "mode": "easy"
+      },
+      {
+        "question": "Who was the last ruler of the Gupta Empire?",
+        "options": [
+          "Skandagupta",
+          "Chandragupta I",
+          "Chandragupta II",
+          "Vikramaditya"
+        ],
+        "answer": "Skandagupta",
+        "mode": "medium"
+      },
+      {
+        "question": "Which battle marked the beginning of the British Empire in India?",
+        "options": [
+          "Battle of Plassey",
+          "Battle of Panipat",
+          "Battle of Buxar",
+          "Battle of Haldighati"
+        ],
+        "answer": "Battle of Plassey",
+        "mode": "medium"
+      },
+      {
+        "question": "Who was the first woman Prime Minister of India?",
+        "options": [
+          "Indira Gandhi",
+          "Sarojini Naidu",
+          "Rani Lakshmi Bai",
+          "Sucheta Kriplani"
+        ],
+        "answer": "Indira Gandhi",
+        "mode": "medium"
+      },
+      {
+        "question": "Which Indian leader is known for his role in the Champaran Satyagraha?",
+        "options": [
+          "Mahatma Gandhi",
+          "Sardar Vallabhbhai Patel",
+          "Jawaharlal Nehru",
+          "Lal Bahadur Shastri"
+        ],
+        "answer": "Mahatma Gandhi",
+        "mode": "medium"
+      },
+      {
+        "question": "Which of the following was the first war of Indian Independence?",
+        "options": [
+          "First War of Indian Independence (1857)",
+          "Battle of Panipat",
+          "Battle of Plassey",
+          "Sepoy Mutiny"
+        ],
+        "answer": "First War of Indian Independence (1857)",
+        "mode": "medium"
+      },
+      {
+        "question": "Which Indian ruler is known for spreading Buddhism across Asia?",
+        "options": ["Ashoka", "Chandragupta Maurya", "Harsha", "Samudragupta"],
+        "answer": "Ashoka",
+        "mode": "medium"
+      },
+      {
+        "question": "Which movement did Gandhiji launch in 1942?",
+        "options": [
+          "Quit India Movement",
+          "Non-Cooperation Movement",
+          "Civil Disobedience Movement",
+          "Salt March"
+        ],
+        "answer": "Quit India Movement",
+        "mode": "medium"
+      },
+      {
+        "question": "Who was the first Sikh Guru?",
+        "options": [
+          "Guru Nanak",
+          "Guru Gobind Singh",
+          "Guru Arjan",
+          "Guru Tegh Bahadur"
+        ],
+        "answer": "Guru Nanak",
+        "mode": "medium"
+      },
+      {
+        "question": "Who was the first Indian to win the Nobel Prize?",
+        "options": [
+          "Rabindranath Tagore",
+          "C. V. Raman",
+          "Subhas Chandra Bose",
+          "Homi J. Bhabha"
+        ],
+        "answer": "Rabindranath Tagore",
+        "mode": "medium"
+      },
+      {
+        "question": "Who was the first woman to be awarded the Bharat Ratna?",
+        "options": [
+          "Indira Gandhi",
+          "Sarojini Naidu",
+          "Mother Teresa",
+          "Lata Mangeshkar"
+        ],
+        "answer": "Indira Gandhi",
+        "mode": "medium"
+      },
+      {
+        "question": "Which was the last Indian dynasty before British rule?",
+        "options": ["Maratha", "Mughal", "Gupta", "Maurya"],
+        "answer": "Maratha",
+        "mode": "hard"
+      },
+      {
+        "question": "Who was the architect of the Indian Constitution?",
+        "options": [
+          "Dr. B.R. Ambedkar",
+          "Jawaharlal Nehru",
+          "Subhas Chandra Bose",
+          "Mahatma Gandhi"
+        ],
+        "answer": "Dr. B.R. Ambedkar",
+        "mode": "hard"
+      },
+      {
+        "question": "Who wrote the famous book 'Discovery of India'?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Subhas Chandra Bose",
+          "Mahatma Gandhi",
+          "C. Rajagopalachari"
+        ],
+        "answer": "Jawaharlal Nehru",
+        "mode": "hard"
+      },
+      {
+        "question": "Which Indian leader gave the famous speech 'Give me blood and I will give you freedom'?",
+        "options": [
+          "Subhas Chandra Bose",
+          "Bhagat Singh",
+          "Lala Lajpat Rai",
+          "Chandra Shekhar Azad"
+        ],
+        "answer": "Subhas Chandra Bose",
+        "mode": "hard"
+      },
+      {
+        "question": "Which empire's capital was 'Pataliputra'?",
+        "options": [
+          "Maurya Empire",
+          "Gupta Empire",
+          "Chola Empire",
+          "Mughal Empire"
+        ],
+        "answer": "Maurya Empire",
+        "mode": "hard"
+      },
+      {
+        "question": "Who was the first Muslim ruler of India?",
+        "options": [
+          "Qutb-ud-din Aibak",
+          "Babar",
+          "Muhammad Ghori",
+          "Iltutmish"
+        ],
+        "answer": "Qutb-ud-din Aibak",
+        "mode": "hard"
+      },
+      {
+        "question": "Which famous battle was fought between the Marathas and the Mughals in 1707?",
+        "options": [
+          "Battle of Panipat",
+          "Battle of Plassey",
+          "Battle of Haldighati",
+          "Battle of Karnal"
+        ],
+        "answer": "Battle of Panipat",
+        "mode": "hard"
+      },
+      {
+        "question": "Which famous Indian leader was known as the 'Iron Man of India'?",
+        "options": [
+          "Sardar Vallabhbhai Patel",
+          "Jawaharlal Nehru",
+          "Lal Bahadur Shastri",
+          "Subhas Chandra Bose"
+        ],
+        "answer": "Sardar Vallabhbhai Patel",
+        "mode": "hard"
+      },
+      {
+        "question": "Who was the first European to land in India?",
+        "options": [
+          "Vasco da Gama",
+          "Christopher Columbus",
+          "Marco Polo",
+          "Ferdinand Magellan"
+        ],
+        "answer": "Vasco da Gama",
+        "mode": "hard"
+      },
+      {
+        "question": "Who was the last Mughal emperor of India?",
+        "options": ["Bahadur Shah Zafar", "Aurangzeb", "Akbar", "Shah Jahan"],
+        "answer": "Bahadur Shah Zafar",
+        "mode": "hard"
+      }
+    ],
+    "geography": [
+      {
+        "question": "What is the capital of India?",
+        "options": ["Mumbai", "Delhi", "Bangalore", "Chennai"],
+        "answer": "Delhi",
+        "mode": "easy"
+      },
+      {
+        "question": "Which river is known as the 'Ganga of the South'?",
+        "options": ["Yamuna", "Godavari", "Kaveri", "Krishna"],
+        "answer": "Kaveri",
+        "mode": "easy"
+      },
+      {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "Berlin", "London", "Madrid"],
+        "answer": "Paris",
+        "mode": "easy"
+      },
+      {
+        "question": "Which is the longest river in the world?",
+        "options": ["Yangtze", "Amazon", "Nile", "Ganges"],
+        "answer": "Nile",
+        "mode": "easy"
+      },
+      {
+        "question": "Which is the largest country in the world by area?",
+        "options": ["USA", "Canada", "China", "Russia"],
+        "answer": "Russia",
+        "mode": "easy"
+      },
+      {
+        "question": "What is the largest desert in the world?",
+        "options": ["Sahara", "Gobi", "Karakum", "Atacama"],
+        "answer": "Sahara",
+        "mode": "easy"
+      },
+      {
+        "question": "Which is the tallest mountain in the world?",
+        "options": ["Mount Everest", "K2", "Mount Kilimanjaro", "Kanchenjunga"],
+        "answer": "Mount Everest",
+        "mode": "easy"
+      },
+      {
+        "question": "Which ocean is the largest?",
+        "options": [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Arctic Ocean",
+          "Pacific Ocean"
+        ],
+        "answer": "Pacific Ocean",
+        "mode": "easy"
+      },
+      {
+        "question": "Which city is known as the 'City of Love'?",
+        "options": ["Paris", "Rome", "Venice", "New York"],
+        "answer": "Paris",
+        "mode": "easy"
+      },
+      {
+        "question": "What is the national flower of India?",
+        "options": ["Rose", "Lotus", "Tulip", "Sunflower"],
+        "answer": "Lotus",
+        "mode": "easy"
+      },
+      {
+        "question": "Which country has the most number of official languages?",
+        "options": ["India", "Switzerland", "Canada", "South Africa"],
+        "answer": "India",
+        "mode": "medium"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": ["South Korea", "Japan", "Thailand", "China"],
+        "answer": "Japan",
+        "mode": "medium"
+      },
+      {
+        "question": "Which is the largest island in the world?",
+        "options": ["Greenland", "Australia", "Borneo", "New Guinea"],
+        "answer": "Greenland",
+        "mode": "medium"
+      },
+      {
+        "question": "What is the capital city of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "answer": "Canberra",
+        "mode": "medium"
+      },
+      {
+        "question": "Which city is known as the 'Big Apple'?",
+        "options": ["Los Angeles", "Chicago", "New York", "Miami"],
+        "answer": "New York",
+        "mode": "medium"
+      },
+      {
+        "question": "Which river is known as the 'Amazon of India'?",
+        "options": ["Godavari", "Yamuna", "Narmada", "Mahanadi"],
+        "answer": "Godavari",
+        "mode": "medium"
+      },
+      {
+        "question": "Which country is known as the 'Land of Midnight Sun'?",
+        "options": ["Norway", "Finland", "Sweden", "Iceland"],
+        "answer": "Norway",
+        "mode": "medium"
+      },
+      {
+        "question": "Which country has the most pyramids?",
+        "options": ["Egypt", "Mexico", "Sudan", "China"],
+        "answer": "Sudan",
+        "mode": "medium"
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "options": ["Tokyo", "Osaka", "Kyoto", "Hiroshima"],
+        "answer": "Tokyo",
+        "mode": "medium"
+      },
+      {
+        "question": "Which is the largest state in India by area?",
+        "options": [
+          "Uttar Pradesh",
+          "Rajasthan",
+          "Madhya Pradesh",
+          "Maharashtra"
+        ],
+        "answer": "Rajasthan",
+        "mode": "medium"
+      },
+      {
+        "question": "Which river forms the boundary between India and Bangladesh?",
+        "options": ["Ganges", "Brahmaputra", "Teesta", "Yamuna"],
+        "answer": "Teesta",
+        "mode": "hard"
+      },
+      {
+        "question": "Which is the highest point in Africa?",
+        "options": [
+          "Mount Everest",
+          "Mount Kilimanjaro",
+          "Mount Kenya",
+          "Mount Atlas"
+        ],
+        "answer": "Mount Kilimanjaro",
+        "mode": "hard"
+      },
+      {
+        "question": "What is the deepest lake in the world?",
+        "options": [
+          "Lake Baikal",
+          "Caspian Sea",
+          "Lake Superior",
+          "Lake Tanganyika"
+        ],
+        "answer": "Lake Baikal",
+        "mode": "hard"
+      },
+      {
+        "question": "Which is the longest mountain range in the world?",
+        "options": ["Andes", "Rockies", "Himalayas", "Alps"],
+        "answer": "Andes",
+        "mode": "hard"
+      },
+      {
+        "question": "What is the capital of Bhutan?",
+        "options": ["Thimphu", "Kathmandu", "Dhaka", "Colombo"],
+        "answer": "Thimphu",
+        "mode": "hard"
+      },
+      {
+        "question": "Which country has the longest coastline in the world?",
+        "options": ["Canada", "Russia", "USA", "Australia"],
+        "answer": "Canada",
+        "mode": "hard"
+      },
+      {
+        "question": "Which is the largest archipelago in the world?",
+        "options": ["Indonesia", "Philippines", "Maldives", "Canada"],
+        "answer": "Indonesia",
+        "mode": "hard"
+      },
+      {
+        "question": "Which city is known as the 'City of Canals'?",
+        "options": ["Amsterdam", "Venice", "Dubai", "Copenhagen"],
+        "answer": "Venice",
+        "mode": "hard"
+      },
+      {
+        "question": "Which desert is located in northern China and southern Mongolia?",
+        "options": ["Karakum", "Gobi", "Kalahari", "Atacama"],
+        "answer": "Gobi",
+        "mode": "hard"
+      },
+      {
+        "question": "Which is the most populous city in the world?",
+        "options": ["New York", "Shanghai", "Tokyo", "Delhi"],
+        "answer": "Tokyo",
+        "mode": "hard"
+      }
+    ],
+    "music": [
+      {
+        "question": "Who sang the song 'Tum Hi Ho' from the movie Aashiqui 2?",
+        "options": [
+          "Arijit Singh",
+          "Atif Aslam",
+          "Sonu Nigam",
+          "Shreya Ghoshal"
+        ],
+        "answer": "Arijit Singh",
+        "mode": "easy"
+      },
+      {
+        "question": "Which musical instrument is known as the 'king of Indian instruments'?",
+        "options": ["Veena", "Sitar", "Tabla", "Sarod"],
+        "answer": "Veena",
+        "mode": "easy"
+      },
+      {
+        "question": "Which instrument is associated with the famous musician Ravi Shankar?",
+        "options": ["Sitar", "Tabla", "Flute", "Sarod"],
+        "answer": "Sitar",
+        "mode": "easy"
+      },
+      {
+        "question": "What is the primary instrument used in Hindustani classical music?",
+        "options": ["Tabla", "Guitar", "Sitar", "Piano"],
+        "answer": "Tabla",
+        "mode": "easy"
+      },
+      {
+        "question": "Which of these songs was sung by Lata Mangeshkar?",
+        "options": [
+          "Pyaar Kiya To Darna Kya",
+          "Madhuban Mein Radhika",
+          "Dil Dhadakne Do",
+          "Tum Jo Aaye"
+        ],
+        "answer": "Pyaar Kiya To Darna Kya",
+        "mode": "easy"
+      },
+      {
+        "question": "Which instrument is typically played with two sticks in Indian classical music?",
+        "options": ["Tabla", "Dholak", "Bansuri", "Sitar"],
+        "answer": "Tabla",
+        "mode": "easy"
+      },
+      {
+        "question": "Who is the composer of the song 'Kal Ho Na Ho'?",
+        "options": [
+          "A. R. Rahman",
+          "Shankar-Ehsaan-Loy",
+          "Vishal-Shekhar",
+          "S. D. Burman"
+        ],
+        "answer": "Shankar-Ehsaan-Loy",
+        "mode": "easy"
+      },
+      {
+        "question": "Who is the legendary singer of the song 'Aaj Phir Jeene Ki Tamanna Hai'?",
+        "options": [
+          "Lata Mangeshkar",
+          "Mohammad Rafi",
+          "Kishore Kumar",
+          "Mukesh"
+        ],
+        "answer": "Lata Mangeshkar",
+        "mode": "easy"
+      },
+      {
+        "question": "Which instrument is used in the famous Bollywood song 'Tum Hi Ho'?",
+        "options": ["Guitar", "Tabla", "Flute", "Piano"],
+        "answer": "Piano",
+        "mode": "easy"
+      },
+      {
+        "question": "Which of these instruments is a string instrument used in Indian classical music?",
+        "options": ["Sitar", "Tabla", "Bansuri", "Dholak"],
+        "answer": "Sitar",
+        "mode": "easy"
+      },
+      {
+        "question": "Who is the music director of the movie 'Dilwale Dulhania Le Jayenge'?",
+        "options": [
+          "Jatin-Lalit",
+          "Nadeem-Shravan",
+          "A. R. Rahman",
+          "Shankar-Ehsaan-Loy"
+        ],
+        "answer": "Jatin-Lalit",
+        "mode": "medium"
+      },
+      {
+        "question": "Which musical instrument is used to produce a continuous sound in Indian classical music?",
+        "options": ["Harmonium", "Sitar", "Tabla", "Bansuri"],
+        "answer": "Harmonium",
+        "mode": "medium"
+      },
+      {
+        "question": "Which of these singers is known as the 'Voice of India'?",
+        "options": [
+          "Mohammad Rafi",
+          "Lata Mangeshkar",
+          "Kishore Kumar",
+          "Mukesh"
+        ],
+        "answer": "Kishore Kumar",
+        "mode": "medium"
+      },
+      {
+        "question": "Which instrument is considered the 'Queen of Indian Instruments'?",
+        "options": ["Veena", "Tabla", "Sitar", "Sarod"],
+        "answer": "Veena",
+        "mode": "medium"
+      },
+      {
+        "question": "Who composed the famous Bollywood song 'Tujh Mein Rab Dikhta Hai'?",
+        "options": [
+          "A. R. Rahman",
+          "Vishal-Shekhar",
+          "Shankar-Ehsaan-Loy",
+          "Pritam"
+        ],
+        "answer": "Shankar-Ehsaan-Loy",
+        "mode": "medium"
+      },
+      {
+        "question": "What is the main difference between the Sarod and Sitar?",
+        "options": [
+          "Sarod has more strings",
+          "Sitar is played with fingers",
+          "Sarod is played with a pick",
+          "Sarod has no frets"
+        ],
+        "answer": "Sarod is played with a pick",
+        "mode": "medium"
+      },
+      {
+        "question": "Which famous singer is known for the song 'Chaiyya Chaiyya'?",
+        "options": [
+          "Udit Narayan",
+          "Arijit Singh",
+          "Kailasa Kher",
+          "Sukhwinder Singh"
+        ],
+        "answer": "Sukhwinder Singh",
+        "mode": "medium"
+      },
+      {
+        "question": "Who is the composer for the movie 'Lagaan'?",
+        "options": [
+          "A. R. Rahman",
+          "Nadeem-Shravan",
+          "Vishal-Shekhar",
+          "Shankar-Ehsaan-Loy"
+        ],
+        "answer": "A. R. Rahman",
+        "mode": "medium"
+      },
+      {
+        "question": "Which instrument is most commonly associated with playing classical music in India?",
+        "options": ["Veena", "Tabla", "Guitar", "Sitar"],
+        "answer": "Sitar",
+        "mode": "medium"
+      },
+      {
+        "question": "Which of these instruments is used in traditional Bengali folk music?",
+        "options": ["Ektara", "Tabla", "Harmonium", "Violin"],
+        "answer": "Ektara",
+        "mode": "medium"
+      },
+      {
+        "question": "Which instrument is known for being used in both Western and Indian classical music, having four strings and played with a bow?",
+        "options": ["Violin", "Sarod", "Flute", "Guitar"],
+        "answer": "Violin",
+        "mode": "hard"
+      },
+      {
+        "question": "Who sang the song 'Ae Mere Humsafar' from the movie 'Baazigar'?",
+        "options": [
+          "Kishore Kumar",
+          "Sonu Nigam",
+          "Arijit Singh",
+          "Udit Narayan"
+        ],
+        "answer": "Udit Narayan",
+        "mode": "hard"
+      },
+      {
+        "question": "Which music director composed the soundtrack for the movie 'Kabhi Alvida Naa Kehna'?",
+        "options": [
+          "Shankar-Ehsaan-Loy",
+          "Pritam",
+          "A. R. Rahman",
+          "Vishal-Shekhar"
+        ],
+        "answer": "Shankar-Ehsaan-Loy",
+        "mode": "hard"
+      },
+      {
+        "question": "Which classical Indian instrument is said to have 22 strings?",
+        "options": ["Sitar", "Veena", "Sarod", "Tanpura"],
+        "answer": "Sitar",
+        "mode": "hard"
+      },
+      {
+        "question": "Who is known as the 'Mozart of Madras'?",
+        "options": [
+          "A. R. Rahman",
+          "Ilaiyaraaja",
+          "Vishal-Shekhar",
+          "Shankar-Ehsaan-Loy"
+        ],
+        "answer": "A. R. Rahman",
+        "mode": "hard"
+      },
+      {
+        "question": "Which of these songs was composed by the famous music director R.D. Burman?",
+        "options": [
+          "Pyaar Ka Toh Hai",
+          "Mera Naam Chin Chin Chu",
+          "Chura Liya Hai Tumne",
+          "Ae Mere Humsafar"
+        ],
+        "answer": "Chura Liya Hai Tumne",
+        "mode": "hard"
+      },
+      {
+        "question": "Which of the following Indian musicians is famous for playing the Sarod?",
+        "options": [
+          "Ravi Shankar",
+          "Zakir Hussain",
+          "Ustad Amjad Ali Khan",
+          "Anoushka Shankar"
+        ],
+        "answer": "Ustad Amjad Ali Khan",
+        "mode": "hard"
+      },
+      {
+        "question": "Which musical instrument is played by striking it with a stick, commonly used in Indian temples?",
+        "options": ["Ghungroo", "Dholak", "Pakhawaj", "Tabla"],
+        "answer": "Pakhawaj",
+        "mode": "hard"
+      },
+      {
+        "question": "Who composed the music for the song 'Agar Tum Saath Ho' from 'Tamasha'?",
+        "options": [
+          "A. R. Rahman",
+          "Pritam",
+          "Shankar-Ehsaan-Loy",
+          "Vishal-Shekhar"
+        ],
+        "answer": "A. R. Rahman",
+        "mode": "hard"
+      },
+      {
+        "question": "Which of these songs was sung by Kishore Kumar?",
+        "options": [
+          "Chalte Chalte",
+          "Pyaar Kiya To Darna Kya",
+          "Mera Naam Chin Chin Chu",
+          "Ek Ladki Ko Dekha"
+        ],
+        "answer": "Mera Naam Chin Chin Chu",
+        "mode": "hard"
+      }
+    ]
+  }
+]

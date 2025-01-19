@@ -19,7 +19,7 @@ It’s designed to be modular, reusable, and highly customizable, making it easy
 
 ## 🌟 **Features**
 
-- 🏆 **Diverse Quiz Categories**: Includes multiple genres like Bollywood, sports, programming, and more.
+- 🏆 **Diverse Quiz Categories**: Includes multiple genres like movies, sports, programming, and more.
 - 🧩 **Difficulty Levels**: Choose your challenge—easy, medium, or hard.
 - 📊 **Scoring System**: Tracks your scores and provides detailed feedback.
 - 🎛️ **Customizable**: Add your own quiz data and genres.
